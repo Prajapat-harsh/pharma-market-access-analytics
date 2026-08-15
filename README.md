@@ -82,7 +82,25 @@ The SQL queries are organized in the `sql/` directory.
 
 ## Power BI Dashboard
 
-Power BI was used to create interactive dashboards for exploring the market access data.
+Power BI was used to build interactive dashboards for analyzing pharmaceutical market access, reimbursement, patient copay, restrictions, and market volume.
+
+### Pharmaceutical Market Overview
+
+The overview dashboard provides high-level KPIs and product-level market volume analysis.
+
+![Pharmaceutical Market Overview](screenshots/pharmaceutical_market_overview.png)
+
+### Market Access Analysis
+
+The market access dashboard analyzes reimbursement rates, patient copay, access levels, and restrictions across payers and regions.
+
+Interactive slicers allow filtering by:
+
+- Region
+- Payer
+- Access level
+
+![Market Access Analysis](screenshots/market_access_analysis.png)
 
 ### Market Access Analysis
 
