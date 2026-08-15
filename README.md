@@ -131,15 +131,20 @@ The analysis focuses on questions such as:
 pharma-market-access-analytics/
 │
 ├── data/
-│   ├── dates(1).csv
-│   ├── market_access(1).csv
-│   ├── payer_product_access(1).csv
-│   ├── payers(1).csv
-│   ├── products(1).csv
-│   └── regions(1).csv
+│   ├── dates (1).csv
+│   ├── market_access (1).csv
+│   ├── payer_product_access (1).csv
+│   ├── payers (1).csv
+│   ├── products (1).csv
+│   └── regions (1).csv
 │
 ├── python/
 │   └── generate_data.py
+│
+├── screenshots/
+│   ├── data_model.png
+│   ├── market_access_analysis.png
+│   └── pharmaceutical_market_overview.png
 │
 ├── sql/
 │   ├── 01_market_access_analysis.sql
@@ -147,4 +152,5 @@ pharma-market-access-analytics/
 │   ├── 03_product_analysis.sql
 │   └── 04_business_insights.sql
 │
+├── pharma_market_access_dashboard.pbix
 └── README.md
