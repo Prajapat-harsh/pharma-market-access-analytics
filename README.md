@@ -39,15 +39,17 @@ The data is synthetic and created for educational and portfolio purposes.
 
 ## Data Model
 
-The database follows a relational structure connecting products, payers, market access records, regions, and dates.
+The project uses a relational data model connecting products, payers, payer-product access relationships, market access records, regions, and dates.
 
-Key relationships include:
+### Entity Relationships
 
 - `products → payer_product_access`
 - `payers → payer_product_access`
 - `payer_product_access → market_access`
 - `regions → market_access`
 - `dates → market_access`
+
+![Data Model](screenshots/data_model.png)
 
 ## Python
 
