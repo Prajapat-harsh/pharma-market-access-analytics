@@ -1,0 +1,1017 @@
+market_access_id,ppa_id,date_id,region_id,access_level,reimbursement_status,patient_copay,restrictions,volume
+MA0001,PPA001,D133,R001,Low,Partially Reimbursed,92,Step Therapy,7853
+MA0002,PPA001,D175,R008,Low,Not Reimbursed,77,Quantity Limit,9117
+MA0003,PPA001,D144,R005,Medium,Partially Reimbursed,59,Prior Authorization,4218
+MA0004,PPA001,D306,R008,High,Reimbursed,22,None,8879
+MA0005,PPA001,D360,R007,Low,Partially Reimbursed,63,Step Therapy,4630
+MA0006,PPA001,D142,R007,Low,Not Reimbursed,98,Step Therapy,4736
+MA0007,PPA001,D285,R005,High,Partially Reimbursed,28,None,3039
+MA0008,PPA001,D006,R008,Medium,Reimbursed,64,None,845
+MA0009,PPA001,D265,R001,High,Reimbursed,18,Prior Authorization,8142
+MA0010,PPA001,D098,R003,High,Partially Reimbursed,46,None,7943
+MA0011,PPA002,D175,R007,Medium,Reimbursed,67,Quantity Limit,5103
+MA0012,PPA002,D095,R002,Low,Not Reimbursed,89,Quantity Limit,1725
+MA0013,PPA002,D027,R009,High,Partially Reimbursed,26,Prior Authorization,2673
+MA0014,PPA002,D130,R010,High,Reimbursed,14,None,6793
+MA0015,PPA002,D245,R001,Medium,Partially Reimbursed,60,Prior Authorization,3892
+MA0016,PPA002,D059,R003,Medium,Partially Reimbursed,74,Quantity Limit,1266
+MA0017,PPA002,D034,R006,Low,Partially Reimbursed,66,Step Therapy,9763
+MA0018,PPA002,D206,R005,Low,Not Reimbursed,62,Prior Authorization,9022
+MA0019,PPA002,D252,R006,High,Partially Reimbursed,27,Step Therapy,1269
+MA0020,PPA002,D038,R007,High,Reimbursed,29,None,9425
+MA0021,PPA002,D296,R008,Medium,Partially Reimbursed,59,Step Therapy,6694
+MA0022,PPA002,D323,R004,Medium,Partially Reimbursed,61,Step Therapy,9898
+MA0023,PPA003,D222,R001,Low,Not Reimbursed,86,None,2970
+MA0024,PPA003,D166,R010,Medium,Partially Reimbursed,58,Quantity Limit,3073
+MA0025,PPA003,D310,R009,Low,Not Reimbursed,81,Quantity Limit,7800
+MA0026,PPA003,D129,R006,Medium,Partially Reimbursed,50,Step Therapy,2734
+MA0027,PPA003,D014,R010,Medium,Partially Reimbursed,61,Prior Authorization,6661
+MA0028,PPA004,D019,R005,Low,Not Reimbursed,95,Prior Authorization,9124
+MA0029,PPA004,D233,R002,High,Reimbursed,15,None,1958
+MA0030,PPA004,D046,R004,Medium,Not Reimbursed,71,Quantity Limit,8265
+MA0031,PPA004,D162,R008,Low,Partially Reimbursed,95,Prior Authorization,8005
+MA0032,PPA004,D130,R007,Medium,Reimbursed,65,None,3222
+MA0033,PPA004,D166,R008,Low,Not Reimbursed,58,Quantity Limit,4626
+MA0034,PPA004,D060,R003,Medium,Partially Reimbursed,62,Prior Authorization,142
+MA0035,PPA004,D207,R006,Medium,Partially Reimbursed,67,Step Therapy,8122
+MA0036,PPA004,D264,R010,High,Reimbursed,40,None,9142
+MA0037,PPA004,D001,R005,Low,Partially Reimbursed,70,Quantity Limit,4012
+MA0038,PPA004,D337,R007,Low,Partially Reimbursed,99,Prior Authorization,5313
+MA0039,PPA004,D278,R002,Low,Not Reimbursed,74,Prior Authorization,2592
+MA0040,PPA004,D237,R010,Medium,Not Reimbursed,38,Step Therapy,9769
+MA0041,PPA005,D052,R005,Low,Not Reimbursed,81,Quantity Limit,688
+MA0042,PPA005,D226,R010,Low,Reimbursed,90,Step Therapy,4808
+MA0043,PPA005,D270,R004,High,Partially Reimbursed,37,Quantity Limit,1746
+MA0044,PPA005,D234,R007,Medium,Reimbursed,49,Quantity Limit,853
+MA0045,PPA005,D008,R007,Medium,Partially Reimbursed,48,Prior Authorization,7156
+MA0046,PPA005,D074,R009,High,Reimbursed,36,None,3050
+MA0047,PPA005,D210,R009,High,Reimbursed,49,Step Therapy,4045
+MA0048,PPA005,D336,R009,Medium,Not Reimbursed,39,Prior Authorization,4261
+MA0049,PPA005,D080,R004,Medium,Reimbursed,30,Quantity Limit,7722
+MA0050,PPA005,D039,R004,Medium,Partially Reimbursed,40,None,5761
+MA0051,PPA006,D154,R004,High,Partially Reimbursed,32,None,3215
+MA0052,PPA006,D328,R003,Low,Partially Reimbursed,98,Step Therapy,2340
+MA0053,PPA006,D218,R007,Low,Reimbursed,90,Step Therapy,5161
+MA0054,PPA006,D354,R001,Medium,Reimbursed,53,Step Therapy,1576
+MA0055,PPA006,D129,R009,Medium,Partially Reimbursed,56,None,2265
+MA0056,PPA006,D234,R004,Low,Not Reimbursed,73,Step Therapy,4565
+MA0057,PPA006,D155,R001,High,Reimbursed,40,Quantity Limit,4935
+MA0058,PPA006,D102,R009,Low,Not Reimbursed,57,Step Therapy,1333
+MA0059,PPA006,D197,R008,High,Partially Reimbursed,24,Step Therapy,6611
+MA0060,PPA006,D248,R010,Low,Partially Reimbursed,100,Prior Authorization,4432
+MA0061,PPA006,D055,R010,Low,Partially Reimbursed,73,Step Therapy,4395
+MA0062,PPA006,D122,R008,Low,Partially Reimbursed,90,Quantity Limit,1875
+MA0063,PPA006,D196,R009,Low,Partially Reimbursed,51,Step Therapy,9298
+MA0064,PPA006,D293,R010,Medium,Not Reimbursed,44,Step Therapy,7706
+MA0065,PPA007,D333,R003,Medium,Partially Reimbursed,61,Step Therapy,4683
+MA0066,PPA007,D210,R006,High,Partially Reimbursed,23,None,3968
+MA0067,PPA007,D060,R004,Medium,Reimbursed,73,Prior Authorization,5976
+MA0068,PPA007,D072,R004,High,Reimbursed,22,Quantity Limit,7550
+MA0069,PPA007,D024,R010,High,Partially Reimbursed,50,None,449
+MA0070,PPA007,D020,R007,High,Partially Reimbursed,25,Quantity Limit,9350
+MA0071,PPA007,D156,R006,High,Reimbursed,45,None,3638
+MA0072,PPA007,D253,R006,High,Reimbursed,19,Step Therapy,9864
+MA0073,PPA007,D050,R008,High,Reimbursed,19,Quantity Limit,8950
+MA0074,PPA008,D090,R004,High,Reimbursed,24,Quantity Limit,810
+MA0075,PPA008,D057,R002,Low,Not Reimbursed,92,Step Therapy,7604
+MA0076,PPA008,D339,R001,Low,Not Reimbursed,53,Quantity Limit,6680
+MA0077,PPA008,D014,R008,Medium,Partially Reimbursed,61,Step Therapy,7367
+MA0078,PPA008,D068,R006,High,Partially Reimbursed,30,Prior Authorization,1176
+MA0079,PPA008,D008,R008,High,Reimbursed,50,None,5427
+MA0080,PPA008,D184,R005,Medium,Not Reimbursed,63,Prior Authorization,8382
+MA0081,PPA008,D122,R008,Low,Not Reimbursed,100,Step Therapy,9133
+MA0082,PPA008,D302,R006,Low,Not Reimbursed,77,Step Therapy,3843
+MA0083,PPA009,D174,R007,Low,Partially Reimbursed,72,Quantity Limit,7029
+MA0084,PPA009,D233,R005,Low,Reimbursed,68,Step Therapy,5861
+MA0085,PPA009,D205,R001,High,Reimbursed,23,None,8000
+MA0086,PPA009,D213,R001,High,Partially Reimbursed,32,Step Therapy,6122
+MA0087,PPA009,D049,R005,High,Partially Reimbursed,46,None,7130
+MA0088,PPA009,D161,R008,Low,Not Reimbursed,89,Step Therapy,9221
+MA0089,PPA009,D219,R004,High,Partially Reimbursed,27,None,4577
+MA0090,PPA009,D341,R002,Low,Not Reimbursed,71,Prior Authorization,3072
+MA0091,PPA009,D131,R001,High,Reimbursed,35,None,602
+MA0092,PPA009,D192,R010,High,Partially Reimbursed,23,None,7532
+MA0093,PPA009,D079,R006,Medium,Reimbursed,49,Step Therapy,9399
+MA0094,PPA010,D044,R005,High,Partially Reimbursed,26,None,2065
+MA0095,PPA010,D027,R003,High,Reimbursed,37,None,6329
+MA0096,PPA010,D080,R008,Low,Not Reimbursed,82,Step Therapy,5902
+MA0097,PPA010,D081,R002,High,Reimbursed,12,None,7632
+MA0098,PPA010,D317,R005,High,Partially Reimbursed,46,None,6726
+MA0099,PPA010,D026,R003,Low,Not Reimbursed,68,Prior Authorization,441
+MA0100,PPA010,D346,R007,Medium,Reimbursed,69,Step Therapy,6028
+MA0101,PPA010,D042,R005,High,Reimbursed,16,None,9748
+MA0102,PPA010,D140,R007,Medium,Partially Reimbursed,55,Quantity Limit,5662
+MA0103,PPA010,D227,R001,High,Reimbursed,20,None,1968
+MA0104,PPA010,D339,R004,Low,Not Reimbursed,99,Prior Authorization,2519
+MA0105,PPA010,D218,R006,High,Reimbursed,26,None,9969
+MA0106,PPA010,D249,R001,High,Partially Reimbursed,14,None,8195
+MA0107,PPA010,D311,R004,Medium,Partially Reimbursed,67,Step Therapy,9348
+MA0108,PPA011,D326,R004,Low,Not Reimbursed,70,Step Therapy,8314
+MA0109,PPA011,D320,R001,High,Not Reimbursed,38,None,5726
+MA0110,PPA011,D166,R005,Low,Reimbursed,91,Prior Authorization,4159
+MA0111,PPA011,D322,R001,Low,Not Reimbursed,78,Step Therapy,2700
+MA0112,PPA011,D162,R004,Medium,Partially Reimbursed,48,Prior Authorization,5643
+MA0113,PPA011,D078,R003,Low,Not Reimbursed,100,Step Therapy,5582
+MA0114,PPA011,D226,R007,High,Reimbursed,45,Prior Authorization,4755
+MA0115,PPA011,D035,R010,Medium,Partially Reimbursed,72,Quantity Limit,9974
+MA0116,PPA011,D241,R001,High,Reimbursed,47,Prior Authorization,5831
+MA0117,PPA011,D227,R006,Medium,Not Reimbursed,74,Step Therapy,2212
+MA0118,PPA011,D324,R004,Low,Not Reimbursed,55,Prior Authorization,6271
+MA0119,PPA011,D156,R006,Low,Not Reimbursed,58,Step Therapy,8724
+MA0120,PPA011,D141,R010,High,Partially Reimbursed,37,None,398
+MA0121,PPA011,D303,R008,Medium,Partially Reimbursed,43,Prior Authorization,8067
+MA0122,PPA011,D029,R001,High,Reimbursed,18,None,4946
+MA0123,PPA012,D260,R009,Low,Not Reimbursed,60,Step Therapy,815
+MA0124,PPA012,D277,R007,Medium,Partially Reimbursed,45,Quantity Limit,4768
+MA0125,PPA012,D270,R006,Low,Not Reimbursed,64,Step Therapy,5170
+MA0126,PPA012,D020,R002,Medium,Not Reimbursed,42,Prior Authorization,9445
+MA0127,PPA012,D339,R002,Medium,Partially Reimbursed,48,Quantity Limit,8339
+MA0128,PPA012,D173,R007,Low,Not Reimbursed,60,Quantity Limit,2367
+MA0129,PPA013,D027,R003,Medium,Not Reimbursed,56,None,8324
+MA0130,PPA013,D329,R008,Medium,Reimbursed,35,Prior Authorization,561
+MA0131,PPA013,D247,R003,Medium,Not Reimbursed,75,Step Therapy,2492
+MA0132,PPA013,D191,R010,High,Reimbursed,40,Prior Authorization,2373
+MA0133,PPA013,D284,R002,Low,Not Reimbursed,89,None,1398
+MA0134,PPA013,D053,R005,High,Reimbursed,19,None,8747
+MA0135,PPA013,D365,R010,Medium,Reimbursed,48,Prior Authorization,2096
+MA0136,PPA013,D265,R003,High,Reimbursed,50,Step Therapy,7589
+MA0137,PPA013,D064,R005,High,Reimbursed,41,None,369
+MA0138,PPA014,D264,R006,Low,Not Reimbursed,99,Step Therapy,5547
+MA0139,PPA014,D295,R004,High,Reimbursed,44,None,2968
+MA0140,PPA014,D124,R010,Low,Not Reimbursed,94,Step Therapy,3086
+MA0141,PPA014,D074,R006,High,Reimbursed,39,None,3402
+MA0142,PPA014,D150,R008,High,Partially Reimbursed,12,None,5180
+MA0143,PPA014,D220,R006,Low,Partially Reimbursed,84,Step Therapy,699
+MA0144,PPA014,D001,R001,Low,Partially Reimbursed,72,Quantity Limit,883
+MA0145,PPA014,D315,R009,Low,Partially Reimbursed,57,Step Therapy,7259
+MA0146,PPA014,D181,R001,Medium,Partially Reimbursed,54,Prior Authorization,3160
+MA0147,PPA014,D293,R004,Medium,Partially Reimbursed,53,Quantity Limit,8607
+MA0148,PPA014,D214,R004,Medium,Not Reimbursed,57,None,9970
+MA0149,PPA014,D096,R008,High,Reimbursed,30,None,5472
+MA0150,PPA014,D341,R004,Low,Partially Reimbursed,78,Step Therapy,7081
+MA0151,PPA014,D343,R001,High,Partially Reimbursed,32,None,5876
+MA0152,PPA014,D044,R003,Low,Not Reimbursed,67,Step Therapy,1039
+MA0153,PPA015,D344,R002,High,Partially Reimbursed,33,None,9393
+MA0154,PPA015,D327,R001,High,Partially Reimbursed,38,Quantity Limit,6195
+MA0155,PPA015,D208,R009,Medium,Partially Reimbursed,66,None,6112
+MA0156,PPA015,D187,R007,Medium,Partially Reimbursed,47,Prior Authorization,1958
+MA0157,PPA015,D263,R005,High,Partially Reimbursed,41,None,9302
+MA0158,PPA015,D348,R002,High,Reimbursed,26,Prior Authorization,3615
+MA0159,PPA016,D147,R004,High,Reimbursed,46,None,9138
+MA0160,PPA016,D356,R001,High,Partially Reimbursed,15,None,6623
+MA0161,PPA016,D252,R006,Low,Not Reimbursed,83,Prior Authorization,6808
+MA0162,PPA016,D103,R009,Low,Reimbursed,70,Step Therapy,7472
+MA0163,PPA016,D063,R009,Medium,Partially Reimbursed,52,None,9132
+MA0164,PPA016,D070,R008,Low,Not Reimbursed,99,Quantity Limit,7188
+MA0165,PPA016,D038,R010,Low,Not Reimbursed,53,Quantity Limit,8588
+MA0166,PPA016,D232,R007,High,Reimbursed,20,None,3794
+MA0167,PPA016,D089,R008,Medium,Not Reimbursed,63,Quantity Limit,1392
+MA0168,PPA016,D228,R006,Medium,Reimbursed,65,Prior Authorization,5061
+MA0169,PPA016,D045,R002,Low,Not Reimbursed,82,Step Therapy,9796
+MA0170,PPA016,D350,R003,Low,Partially Reimbursed,92,Step Therapy,5631
+MA0171,PPA016,D164,R002,Low,Reimbursed,51,Prior Authorization,9549
+MA0172,PPA016,D342,R008,Medium,Partially Reimbursed,66,Step Therapy,596
+MA0173,PPA017,D322,R007,Low,Not Reimbursed,70,Prior Authorization,2107
+MA0174,PPA017,D280,R002,Medium,Partially Reimbursed,39,None,4854
+MA0175,PPA017,D149,R005,Medium,Not Reimbursed,56,Prior Authorization,2716
+MA0176,PPA017,D329,R005,Medium,Not Reimbursed,50,None,2710
+MA0177,PPA017,D155,R004,Medium,Not Reimbursed,59,Step Therapy,5155
+MA0178,PPA017,D248,R002,Medium,Reimbursed,55,Step Therapy,4044
+MA0179,PPA017,D126,R009,High,Reimbursed,13,None,8208
+MA0180,PPA017,D351,R004,Low,Not Reimbursed,91,Step Therapy,4781
+MA0181,PPA017,D208,R010,Low,Reimbursed,56,Prior Authorization,4433
+MA0182,PPA017,D153,R004,Low,Partially Reimbursed,75,Prior Authorization,6663
+MA0183,PPA017,D233,R004,High,Reimbursed,22,None,4828
+MA0184,PPA017,D038,R008,High,Reimbursed,38,Step Therapy,4682
+MA0185,PPA018,D349,R005,Low,Partially Reimbursed,82,Step Therapy,9322
+MA0186,PPA018,D313,R001,Medium,Partially Reimbursed,31,Prior Authorization,1895
+MA0187,PPA018,D061,R001,Medium,Partially Reimbursed,74,Step Therapy,9879
+MA0188,PPA018,D066,R008,Medium,Reimbursed,71,Quantity Limit,9577
+MA0189,PPA018,D050,R009,Low,Partially Reimbursed,53,Step Therapy,2893
+MA0190,PPA018,D202,R006,Low,Not Reimbursed,89,Step Therapy,6329
+MA0191,PPA018,D192,R002,High,Partially Reimbursed,25,None,1900
+MA0192,PPA018,D174,R009,High,Reimbursed,30,None,6865
+MA0193,PPA018,D286,R002,Low,Partially Reimbursed,82,Step Therapy,7826
+MA0194,PPA018,D188,R010,Low,Not Reimbursed,95,Prior Authorization,3497
+MA0195,PPA018,D074,R004,Low,Partially Reimbursed,92,Step Therapy,6273
+MA0196,PPA018,D102,R004,Medium,Not Reimbursed,59,Quantity Limit,5708
+MA0197,PPA018,D309,R007,Low,Partially Reimbursed,99,Quantity Limit,4431
+MA0198,PPA018,D261,R009,Low,Not Reimbursed,65,Prior Authorization,4990
+MA0199,PPA019,D153,R004,Medium,Not Reimbursed,39,Prior Authorization,4812
+MA0200,PPA019,D148,R010,Low,Reimbursed,78,Step Therapy,7949
+MA0201,PPA019,D361,R008,High,Reimbursed,44,None,9308
+MA0202,PPA019,D107,R003,Low,Partially Reimbursed,56,Step Therapy,9714
+MA0203,PPA019,D354,R002,High,Reimbursed,43,None,3914
+MA0204,PPA019,D251,R007,High,Reimbursed,31,Prior Authorization,1747
+MA0205,PPA019,D163,R004,Low,Not Reimbursed,50,Quantity Limit,2687
+MA0206,PPA019,D246,R010,Medium,Partially Reimbursed,60,Step Therapy,3367
+MA0207,PPA020,D165,R008,Medium,Reimbursed,48,Quantity Limit,251
+MA0208,PPA020,D147,R009,Medium,Partially Reimbursed,36,Quantity Limit,5589
+MA0209,PPA020,D331,R001,Medium,Partially Reimbursed,71,Step Therapy,8192
+MA0210,PPA020,D031,R010,High,Partially Reimbursed,39,None,1945
+MA0211,PPA020,D046,R005,Medium,Reimbursed,59,Step Therapy,3150
+MA0212,PPA020,D334,R009,High,Partially Reimbursed,28,None,3264
+MA0213,PPA020,D294,R010,High,Partially Reimbursed,50,Step Therapy,7107
+MA0214,PPA020,D119,R001,Low,Partially Reimbursed,75,Step Therapy,3127
+MA0215,PPA020,D274,R009,High,Reimbursed,25,None,6384
+MA0216,PPA021,D229,R007,Low,Not Reimbursed,94,Prior Authorization,4933
+MA0217,PPA021,D137,R007,Medium,Partially Reimbursed,44,Quantity Limit,7934
+MA0218,PPA021,D169,R001,High,Reimbursed,48,None,9098
+MA0219,PPA021,D155,R002,Medium,Partially Reimbursed,72,Quantity Limit,4154
+MA0220,PPA021,D299,R004,Low,Not Reimbursed,100,Prior Authorization,7419
+MA0221,PPA021,D294,R005,Low,Not Reimbursed,54,Quantity Limit,1938
+MA0222,PPA021,D006,R006,High,Partially Reimbursed,42,None,8892
+MA0223,PPA021,D134,R009,High,Reimbursed,43,None,3465
+MA0224,PPA022,D251,R007,Medium,Partially Reimbursed,38,Quantity Limit,6987
+MA0225,PPA022,D047,R004,Medium,Not Reimbursed,54,Step Therapy,6284
+MA0226,PPA022,D262,R001,Medium,Reimbursed,72,Quantity Limit,2278
+MA0227,PPA022,D229,R003,Low,Not Reimbursed,57,Prior Authorization,8902
+MA0228,PPA022,D029,R001,Medium,Partially Reimbursed,44,Quantity Limit,472
+MA0229,PPA022,D233,R003,Medium,Partially Reimbursed,64,Step Therapy,6314
+MA0230,PPA022,D068,R001,High,Reimbursed,32,None,3188
+MA0231,PPA022,D263,R005,Low,Not Reimbursed,52,Quantity Limit,6968
+MA0232,PPA022,D213,R008,Low,Not Reimbursed,51,Prior Authorization,1202
+MA0233,PPA022,D234,R006,High,Reimbursed,38,None,897
+MA0234,PPA022,D289,R001,High,Partially Reimbursed,35,None,8943
+MA0235,PPA022,D030,R009,High,Partially Reimbursed,13,None,4839
+MA0236,PPA022,D287,R010,High,Partially Reimbursed,46,None,9896
+MA0237,PPA022,D237,R005,Low,Not Reimbursed,65,Prior Authorization,2447
+MA0238,PPA023,D267,R010,Low,Not Reimbursed,76,Step Therapy,2296
+MA0239,PPA023,D114,R010,Medium,Reimbursed,43,Prior Authorization,1395
+MA0240,PPA023,D212,R007,Medium,Not Reimbursed,35,Step Therapy,3220
+MA0241,PPA023,D154,R008,High,Reimbursed,48,Prior Authorization,1292
+MA0242,PPA023,D141,R004,High,Partially Reimbursed,47,Prior Authorization,9256
+MA0243,PPA023,D032,R005,High,Reimbursed,31,None,351
+MA0244,PPA023,D286,R002,High,Not Reimbursed,17,Prior Authorization,7946
+MA0245,PPA023,D303,R004,High,Partially Reimbursed,23,None,4021
+MA0246,PPA023,D090,R008,Low,Partially Reimbursed,68,Prior Authorization,8843
+MA0247,PPA023,D321,R005,Low,Partially Reimbursed,66,Prior Authorization,8247
+MA0248,PPA023,D348,R009,Medium,Reimbursed,60,Quantity Limit,5346
+MA0249,PPA023,D219,R004,High,Reimbursed,36,None,3725
+MA0250,PPA023,D285,R008,Low,Partially Reimbursed,66,Step Therapy,9668
+MA0251,PPA023,D254,R009,Low,Not Reimbursed,68,Prior Authorization,5504
+MA0252,PPA023,D025,R010,High,Reimbursed,25,None,5630
+MA0253,PPA024,D251,R010,Medium,Reimbursed,70,Prior Authorization,2574
+MA0254,PPA024,D329,R006,High,Reimbursed,39,None,8016
+MA0255,PPA024,D252,R007,Low,Not Reimbursed,50,Step Therapy,6839
+MA0256,PPA024,D236,R001,High,Reimbursed,27,None,4797
+MA0257,PPA024,D087,R001,High,Reimbursed,37,Step Therapy,3037
+MA0258,PPA024,D181,R009,High,Not Reimbursed,43,None,3244
+MA0259,PPA024,D072,R010,Low,Not Reimbursed,72,Prior Authorization,6602
+MA0260,PPA024,D280,R007,High,Reimbursed,35,None,4084
+MA0261,PPA024,D095,R008,Low,Partially Reimbursed,93,Quantity Limit,1420
+MA0262,PPA025,D333,R009,Low,Not Reimbursed,52,Prior Authorization,5252
+MA0263,PPA025,D017,R007,High,Not Reimbursed,47,None,6625
+MA0264,PPA025,D048,R004,High,Reimbursed,46,None,6475
+MA0265,PPA025,D208,R010,Low,Not Reimbursed,71,Prior Authorization,2392
+MA0266,PPA025,D195,R010,Low,Not Reimbursed,82,Step Therapy,5766
+MA0267,PPA025,D194,R009,High,Reimbursed,24,Step Therapy,5680
+MA0268,PPA025,D283,R010,Low,Not Reimbursed,88,Prior Authorization,5447
+MA0269,PPA025,D244,R003,High,Partially Reimbursed,38,None,5929
+MA0270,PPA025,D029,R010,Low,Not Reimbursed,77,Prior Authorization,9698
+MA0271,PPA025,D327,R007,Low,Partially Reimbursed,99,Step Therapy,4137
+MA0272,PPA025,D005,R006,Low,Reimbursed,67,Prior Authorization,2627
+MA0273,PPA025,D360,R003,Low,Partially Reimbursed,73,Prior Authorization,185
+MA0274,PPA025,D088,R010,Medium,Partially Reimbursed,47,None,1530
+MA0275,PPA025,D043,R007,High,Reimbursed,45,None,6785
+MA0276,PPA025,D256,R003,High,Reimbursed,32,None,9880
+MA0277,PPA026,D167,R002,High,Reimbursed,35,None,6324
+MA0278,PPA026,D198,R003,Medium,Partially Reimbursed,57,Quantity Limit,9838
+MA0279,PPA026,D007,R003,High,Reimbursed,48,Quantity Limit,3390
+MA0280,PPA026,D150,R002,Medium,Partially Reimbursed,55,Quantity Limit,4875
+MA0281,PPA026,D212,R002,Low,Not Reimbursed,81,Quantity Limit,4071
+MA0282,PPA026,D199,R003,Medium,Partially Reimbursed,55,Prior Authorization,9338
+MA0283,PPA026,D044,R003,High,Reimbursed,44,None,9112
+MA0284,PPA026,D287,R008,High,Not Reimbursed,39,Quantity Limit,3534
+MA0285,PPA026,D125,R004,Medium,Partially Reimbursed,74,None,6803
+MA0286,PPA026,D293,R010,Low,Not Reimbursed,90,Prior Authorization,4239
+MA0287,PPA026,D267,R008,Low,Partially Reimbursed,77,Step Therapy,1311
+MA0288,PPA026,D087,R005,Medium,Not Reimbursed,60,Step Therapy,8855
+MA0289,PPA026,D351,R007,Low,Not Reimbursed,94,Prior Authorization,702
+MA0290,PPA026,D195,R005,Medium,Partially Reimbursed,64,Step Therapy,1492
+MA0291,PPA027,D128,R007,Medium,Reimbursed,36,Prior Authorization,8466
+MA0292,PPA027,D337,R006,Low,Not Reimbursed,87,Step Therapy,3721
+MA0293,PPA027,D341,R007,Medium,Partially Reimbursed,59,Quantity Limit,9743
+MA0294,PPA027,D182,R007,Low,Not Reimbursed,72,Quantity Limit,8009
+MA0295,PPA027,D086,R010,High,Reimbursed,15,None,2421
+MA0296,PPA027,D332,R004,Medium,Partially Reimbursed,59,Quantity Limit,8637
+MA0297,PPA028,D179,R001,Low,Partially Reimbursed,90,Step Therapy,6581
+MA0298,PPA028,D244,R004,High,Partially Reimbursed,22,None,7137
+MA0299,PPA028,D050,R002,Medium,Reimbursed,43,Prior Authorization,1125
+MA0300,PPA028,D225,R009,Low,Partially Reimbursed,84,Prior Authorization,5440
+MA0301,PPA028,D357,R010,High,Reimbursed,26,Prior Authorization,8119
+MA0302,PPA028,D232,R008,Low,Not Reimbursed,70,Step Therapy,6531
+MA0303,PPA028,D164,R006,Low,Partially Reimbursed,72,Quantity Limit,2926
+MA0304,PPA028,D035,R006,Low,Not Reimbursed,69,Quantity Limit,9769
+MA0305,PPA028,D154,R004,High,Partially Reimbursed,30,None,5103
+MA0306,PPA028,D023,R005,High,Reimbursed,19,None,6952
+MA0307,PPA028,D364,R005,Low,Partially Reimbursed,74,Prior Authorization,8073
+MA0308,PPA028,D059,R008,Low,Not Reimbursed,91,Quantity Limit,2938
+MA0309,PPA029,D086,R002,High,Reimbursed,20,Step Therapy,9367
+MA0310,PPA029,D251,R004,Low,Not Reimbursed,81,Step Therapy,1954
+MA0311,PPA029,D148,R006,Low,Partially Reimbursed,99,Step Therapy,6110
+MA0312,PPA029,D072,R007,Low,Not Reimbursed,52,Step Therapy,7331
+MA0313,PPA029,D096,R005,Low,Partially Reimbursed,77,Prior Authorization,4155
+MA0314,PPA029,D162,R005,Medium,Not Reimbursed,32,Step Therapy,5811
+MA0315,PPA029,D231,R008,High,Reimbursed,17,Step Therapy,3982
+MA0316,PPA029,D318,R005,High,Partially Reimbursed,47,Prior Authorization,7115
+MA0317,PPA029,D028,R002,High,Partially Reimbursed,23,Step Therapy,1072
+MA0318,PPA029,D184,R006,Low,Partially Reimbursed,67,Step Therapy,2858
+MA0319,PPA029,D005,R008,Medium,Not Reimbursed,48,Prior Authorization,4480
+MA0320,PPA029,D249,R003,Low,Not Reimbursed,93,Quantity Limit,2321
+MA0321,PPA029,D070,R001,Medium,Not Reimbursed,47,Quantity Limit,2178
+MA0322,PPA030,D128,R005,High,Reimbursed,27,Prior Authorization,6146
+MA0323,PPA030,D075,R006,Medium,Not Reimbursed,50,Step Therapy,1626
+MA0324,PPA030,D365,R003,Low,Not Reimbursed,90,Step Therapy,5969
+MA0325,PPA030,D165,R005,High,Partially Reimbursed,35,None,7139
+MA0326,PPA030,D127,R005,High,Reimbursed,30,Step Therapy,5633
+MA0327,PPA030,D347,R007,Low,Not Reimbursed,86,Quantity Limit,5731
+MA0328,PPA030,D202,R009,Low,Not Reimbursed,52,Prior Authorization,7629
+MA0329,PPA031,D064,R010,Medium,Reimbursed,47,None,6005
+MA0330,PPA031,D081,R005,Medium,Reimbursed,72,Quantity Limit,2811
+MA0331,PPA031,D226,R010,High,Reimbursed,29,Prior Authorization,3936
+MA0332,PPA031,D234,R010,Medium,Partially Reimbursed,75,None,3596
+MA0333,PPA031,D001,R009,Medium,Reimbursed,67,Prior Authorization,7391
+MA0334,PPA032,D005,R007,High,Reimbursed,29,None,2281
+MA0335,PPA032,D357,R005,Low,Not Reimbursed,59,Prior Authorization,9328
+MA0336,PPA032,D176,R003,High,Partially Reimbursed,20,None,3590
+MA0337,PPA032,D062,R001,Low,Not Reimbursed,76,Step Therapy,7348
+MA0338,PPA032,D217,R009,High,Reimbursed,16,None,2117
+MA0339,PPA033,D197,R008,Medium,Partially Reimbursed,34,Step Therapy,297
+MA0340,PPA033,D180,R007,Medium,Not Reimbursed,38,Prior Authorization,9412
+MA0341,PPA033,D220,R009,Medium,Partially Reimbursed,73,None,7817
+MA0342,PPA033,D162,R007,High,Reimbursed,14,None,3634
+MA0343,PPA033,D072,R004,High,Not Reimbursed,35,None,8309
+MA0344,PPA033,D127,R006,Medium,Partially Reimbursed,55,None,8891
+MA0345,PPA033,D142,R006,Low,Not Reimbursed,67,Prior Authorization,1394
+MA0346,PPA033,D331,R008,Low,Not Reimbursed,59,Step Therapy,6501
+MA0347,PPA033,D044,R003,Low,Not Reimbursed,91,Step Therapy,1183
+MA0348,PPA033,D128,R001,Medium,Partially Reimbursed,45,None,1512
+MA0349,PPA033,D284,R009,Medium,Reimbursed,69,Step Therapy,5167
+MA0350,PPA033,D308,R010,Low,Not Reimbursed,97,Prior Authorization,307
+MA0351,PPA033,D312,R005,Low,Partially Reimbursed,50,Prior Authorization,5780
+MA0352,PPA033,D146,R002,Low,Not Reimbursed,96,Prior Authorization,6192
+MA0353,PPA034,D138,R001,Low,Partially Reimbursed,60,Prior Authorization,1785
+MA0354,PPA034,D061,R008,Low,Not Reimbursed,57,Prior Authorization,8436
+MA0355,PPA034,D016,R006,High,Reimbursed,10,None,7829
+MA0356,PPA034,D172,R001,Medium,Partially Reimbursed,39,None,679
+MA0357,PPA034,D220,R005,Low,Not Reimbursed,95,Step Therapy,6970
+MA0358,PPA034,D140,R004,High,Reimbursed,36,Quantity Limit,5341
+MA0359,PPA034,D269,R005,Medium,Not Reimbursed,66,Prior Authorization,8325
+MA0360,PPA035,D027,R004,Low,Partially Reimbursed,94,Quantity Limit,5588
+MA0361,PPA035,D092,R003,High,Partially Reimbursed,34,Step Therapy,5138
+MA0362,PPA035,D115,R008,High,Reimbursed,25,None,1081
+MA0363,PPA035,D265,R008,High,Partially Reimbursed,15,None,3892
+MA0364,PPA035,D024,R003,Low,Not Reimbursed,73,Step Therapy,1491
+MA0365,PPA035,D206,R004,Low,Reimbursed,58,Step Therapy,6561
+MA0366,PPA035,D036,R010,High,Reimbursed,13,None,2241
+MA0367,PPA035,D239,R010,High,Reimbursed,30,Quantity Limit,6538
+MA0368,PPA035,D145,R008,Low,Not Reimbursed,70,Prior Authorization,4555
+MA0369,PPA035,D160,R008,High,Reimbursed,22,None,9679
+MA0370,PPA035,D168,R006,High,Reimbursed,20,None,5245
+MA0371,PPA035,D045,R008,Medium,Reimbursed,52,Quantity Limit,3501
+MA0372,PPA035,D284,R002,Medium,Partially Reimbursed,46,Quantity Limit,1581
+MA0373,PPA035,D234,R010,High,Partially Reimbursed,29,Step Therapy,9984
+MA0374,PPA035,D005,R001,High,Reimbursed,30,None,4166
+MA0375,PPA036,D203,R006,Medium,Partially Reimbursed,70,Quantity Limit,1476
+MA0376,PPA036,D263,R006,Low,Not Reimbursed,54,None,1156
+MA0377,PPA036,D026,R001,High,Not Reimbursed,38,Step Therapy,1606
+MA0378,PPA036,D347,R002,Medium,Reimbursed,59,None,9502
+MA0379,PPA036,D154,R008,Medium,Not Reimbursed,55,Step Therapy,6370
+MA0380,PPA036,D134,R002,Low,Not Reimbursed,72,Prior Authorization,3166
+MA0381,PPA036,D090,R001,Medium,Reimbursed,39,None,4126
+MA0382,PPA036,D016,R008,Low,Partially Reimbursed,76,Quantity Limit,7948
+MA0383,PPA036,D208,R003,High,Reimbursed,34,None,3367
+MA0384,PPA036,D232,R002,Low,Not Reimbursed,83,Prior Authorization,9007
+MA0385,PPA037,D196,R004,Low,Partially Reimbursed,99,Prior Authorization,7828
+MA0386,PPA037,D184,R006,Low,Partially Reimbursed,87,Quantity Limit,2715
+MA0387,PPA037,D246,R004,High,Reimbursed,25,None,1016
+MA0388,PPA037,D279,R003,High,Reimbursed,34,None,2946
+MA0389,PPA037,D249,R001,High,Reimbursed,30,Step Therapy,5978
+MA0390,PPA038,D015,R001,High,Partially Reimbursed,43,Step Therapy,1288
+MA0391,PPA038,D361,R003,Medium,Partially Reimbursed,72,Prior Authorization,1755
+MA0392,PPA038,D359,R003,Medium,Partially Reimbursed,38,Quantity Limit,7257
+MA0393,PPA038,D181,R006,Low,Not Reimbursed,91,Prior Authorization,9307
+MA0394,PPA038,D291,R001,Low,Not Reimbursed,89,Step Therapy,3757
+MA0395,PPA038,D289,R010,Low,Not Reimbursed,61,Prior Authorization,4925
+MA0396,PPA038,D073,R003,High,Reimbursed,10,Quantity Limit,9485
+MA0397,PPA038,D097,R002,Medium,Not Reimbursed,66,None,9969
+MA0398,PPA038,D253,R008,Medium,Not Reimbursed,69,Prior Authorization,9365
+MA0399,PPA038,D278,R010,High,Not Reimbursed,19,None,1374
+MA0400,PPA038,D159,R009,High,Reimbursed,30,None,1553
+MA0401,PPA038,D090,R004,Low,Not Reimbursed,96,Quantity Limit,7417
+MA0402,PPA038,D252,R001,High,Reimbursed,25,Prior Authorization,5842
+MA0403,PPA038,D020,R006,Medium,Partially Reimbursed,30,None,7279
+MA0404,PPA039,D086,R008,High,Reimbursed,15,None,8009
+MA0405,PPA039,D212,R003,Low,Reimbursed,91,Prior Authorization,7213
+MA0406,PPA039,D253,R005,High,Reimbursed,31,None,3212
+MA0407,PPA039,D194,R008,Medium,Partially Reimbursed,64,Prior Authorization,4712
+MA0408,PPA039,D180,R001,Medium,Reimbursed,33,Prior Authorization,9105
+MA0409,PPA039,D280,R001,Medium,Reimbursed,53,None,1535
+MA0410,PPA039,D193,R003,Medium,Not Reimbursed,70,Step Therapy,3371
+MA0411,PPA039,D052,R002,High,Reimbursed,20,Prior Authorization,1442
+MA0412,PPA039,D246,R004,Medium,Not Reimbursed,49,Quantity Limit,7815
+MA0413,PPA039,D296,R009,Medium,Not Reimbursed,46,None,9014
+MA0414,PPA039,D334,R002,Medium,Reimbursed,54,Prior Authorization,7403
+MA0415,PPA040,D135,R006,Low,Not Reimbursed,98,Step Therapy,9170
+MA0416,PPA040,D226,R002,High,Partially Reimbursed,43,None,8873
+MA0417,PPA040,D239,R007,Low,Not Reimbursed,80,Step Therapy,3960
+MA0418,PPA040,D116,R001,Medium,Reimbursed,55,Quantity Limit,668
+MA0419,PPA040,D138,R007,Low,Not Reimbursed,83,Quantity Limit,2515
+MA0420,PPA041,D230,R001,Low,Partially Reimbursed,96,Quantity Limit,1197
+MA0421,PPA041,D089,R001,High,Reimbursed,35,None,4625
+MA0422,PPA041,D086,R007,Low,Not Reimbursed,50,Step Therapy,9726
+MA0423,PPA041,D109,R003,Low,Not Reimbursed,57,Prior Authorization,2528
+MA0424,PPA041,D099,R009,Low,Not Reimbursed,98,Quantity Limit,1741
+MA0425,PPA041,D065,R002,High,Reimbursed,16,Step Therapy,8875
+MA0426,PPA042,D211,R003,Medium,Reimbursed,49,Prior Authorization,8154
+MA0427,PPA042,D136,R002,Low,Not Reimbursed,64,Prior Authorization,7359
+MA0428,PPA042,D197,R007,Medium,Reimbursed,56,Step Therapy,1562
+MA0429,PPA042,D336,R007,High,Reimbursed,36,Prior Authorization,8562
+MA0430,PPA042,D249,R001,Medium,Not Reimbursed,62,Quantity Limit,1175
+MA0431,PPA042,D293,R009,Medium,Partially Reimbursed,55,None,8689
+MA0432,PPA042,D312,R004,Low,Reimbursed,62,Quantity Limit,3388
+MA0433,PPA042,D243,R003,High,Reimbursed,39,None,6004
+MA0434,PPA042,D020,R008,Low,Partially Reimbursed,73,Quantity Limit,8375
+MA0435,PPA042,D089,R010,Medium,Partially Reimbursed,37,Step Therapy,4063
+MA0436,PPA043,D251,R009,High,Partially Reimbursed,27,Prior Authorization,8509
+MA0437,PPA043,D305,R003,High,Partially Reimbursed,10,None,2267
+MA0438,PPA043,D229,R009,Low,Partially Reimbursed,50,Prior Authorization,5104
+MA0439,PPA043,D091,R001,Low,Not Reimbursed,91,Prior Authorization,6268
+MA0440,PPA043,D243,R001,Medium,Partially Reimbursed,43,Step Therapy,8630
+MA0441,PPA043,D301,R001,Low,Partially Reimbursed,56,None,6231
+MA0442,PPA043,D283,R009,Low,Not Reimbursed,88,Prior Authorization,1871
+MA0443,PPA043,D180,R008,Medium,Reimbursed,47,Step Therapy,4636
+MA0444,PPA043,D177,R003,Medium,Partially Reimbursed,71,Prior Authorization,2556
+MA0445,PPA043,D084,R003,Low,Not Reimbursed,53,Quantity Limit,9930
+MA0446,PPA044,D339,R004,Low,Partially Reimbursed,60,Quantity Limit,9246
+MA0447,PPA044,D164,R001,High,Reimbursed,40,None,4337
+MA0448,PPA044,D349,R008,Low,Not Reimbursed,98,Quantity Limit,5599
+MA0449,PPA044,D072,R006,Low,Reimbursed,72,Prior Authorization,5131
+MA0450,PPA044,D014,R002,Medium,Partially Reimbursed,51,Prior Authorization,9693
+MA0451,PPA044,D336,R008,Medium,Partially Reimbursed,37,Step Therapy,9661
+MA0452,PPA044,D255,R003,Low,Not Reimbursed,54,Step Therapy,3287
+MA0453,PPA044,D152,R006,Low,Partially Reimbursed,93,Prior Authorization,4988
+MA0454,PPA044,D133,R008,Medium,Reimbursed,39,None,3381
+MA0455,PPA044,D215,R010,Medium,Partially Reimbursed,66,Quantity Limit,7596
+MA0456,PPA044,D208,R007,High,Reimbursed,21,Step Therapy,8088
+MA0457,PPA045,D324,R006,Low,Partially Reimbursed,73,Quantity Limit,5379
+MA0458,PPA045,D091,R002,Low,Partially Reimbursed,93,None,4176
+MA0459,PPA045,D161,R008,High,Partially Reimbursed,32,None,1782
+MA0460,PPA045,D325,R008,Medium,Partially Reimbursed,49,None,849
+MA0461,PPA045,D030,R002,Medium,Not Reimbursed,59,Step Therapy,9870
+MA0462,PPA045,D003,R005,Low,Partially Reimbursed,93,Quantity Limit,5715
+MA0463,PPA045,D232,R005,Medium,Partially Reimbursed,42,None,6709
+MA0464,PPA045,D141,R005,High,Reimbursed,18,None,459
+MA0465,PPA045,D108,R005,Low,Not Reimbursed,57,Prior Authorization,712
+MA0466,PPA045,D087,R001,Medium,Not Reimbursed,46,Quantity Limit,896
+MA0467,PPA046,D025,R008,High,Reimbursed,48,None,4408
+MA0468,PPA046,D339,R003,Low,Not Reimbursed,72,Step Therapy,4939
+MA0469,PPA046,D056,R007,High,Reimbursed,41,Quantity Limit,7975
+MA0470,PPA046,D335,R001,Medium,Reimbursed,30,Step Therapy,1909
+MA0471,PPA046,D011,R005,Low,Not Reimbursed,59,Quantity Limit,8483
+MA0472,PPA046,D354,R002,High,Partially Reimbursed,16,Quantity Limit,3887
+MA0473,PPA046,D060,R006,Medium,Not Reimbursed,48,Prior Authorization,920
+MA0474,PPA046,D214,R007,High,Partially Reimbursed,12,Step Therapy,6001
+MA0475,PPA046,D228,R008,Low,Partially Reimbursed,97,Prior Authorization,851
+MA0476,PPA046,D195,R005,High,Partially Reimbursed,20,None,7271
+MA0477,PPA046,D064,R009,Low,Partially Reimbursed,96,Prior Authorization,5715
+MA0478,PPA046,D281,R006,High,Reimbursed,35,Quantity Limit,4553
+MA0479,PPA046,D130,R007,Medium,Partially Reimbursed,60,Quantity Limit,2832
+MA0480,PPA046,D243,R003,High,Reimbursed,13,Quantity Limit,2711
+MA0481,PPA047,D214,R002,High,Reimbursed,41,None,6838
+MA0482,PPA047,D303,R004,Medium,Reimbursed,46,Step Therapy,302
+MA0483,PPA047,D248,R004,Low,Not Reimbursed,83,Step Therapy,9547
+MA0484,PPA047,D292,R001,Low,Not Reimbursed,92,Quantity Limit,8604
+MA0485,PPA047,D348,R007,Low,Not Reimbursed,89,Prior Authorization,4172
+MA0486,PPA047,D225,R009,Medium,Partially Reimbursed,73,Step Therapy,2535
+MA0487,PPA048,D314,R004,Low,Not Reimbursed,56,Prior Authorization,687
+MA0488,PPA048,D028,R003,Low,Not Reimbursed,55,Step Therapy,5090
+MA0489,PPA048,D006,R006,Low,Not Reimbursed,91,Step Therapy,5684
+MA0490,PPA048,D330,R006,Medium,Not Reimbursed,44,Quantity Limit,5539
+MA0491,PPA048,D081,R004,Low,Not Reimbursed,88,Step Therapy,6052
+MA0492,PPA048,D259,R009,Low,Not Reimbursed,56,Step Therapy,3733
+MA0493,PPA048,D241,R001,High,Reimbursed,50,Quantity Limit,4883
+MA0494,PPA048,D254,R005,Low,Not Reimbursed,94,Prior Authorization,2789
+MA0495,PPA048,D085,R006,Medium,Reimbursed,75,Step Therapy,6804
+MA0496,PPA048,D039,R001,High,Reimbursed,22,None,6537
+MA0497,PPA048,D252,R005,High,Reimbursed,22,Prior Authorization,1865
+MA0498,PPA048,D165,R004,Medium,Reimbursed,70,Quantity Limit,9747
+MA0499,PPA048,D124,R010,High,Partially Reimbursed,38,None,9755
+MA0500,PPA049,D069,R002,Medium,Partially Reimbursed,38,None,9971
+MA0501,PPA049,D256,R009,Low,Not Reimbursed,82,Prior Authorization,9075
+MA0502,PPA049,D003,R002,Medium,Partially Reimbursed,65,Step Therapy,3391
+MA0503,PPA049,D272,R007,High,Partially Reimbursed,28,Prior Authorization,2273
+MA0504,PPA049,D025,R007,Low,Not Reimbursed,61,Step Therapy,5381
+MA0505,PPA049,D284,R004,Low,Partially Reimbursed,72,Step Therapy,9648
+MA0506,PPA049,D222,R009,Low,Not Reimbursed,95,Prior Authorization,8847
+MA0507,PPA049,D300,R005,Medium,Not Reimbursed,57,Quantity Limit,8664
+MA0508,PPA049,D248,R007,High,Reimbursed,19,None,1027
+MA0509,PPA049,D261,R007,High,Reimbursed,20,Quantity Limit,4205
+MA0510,PPA049,D091,R003,High,Partially Reimbursed,28,None,8966
+MA0511,PPA049,D355,R004,High,Reimbursed,38,None,9305
+MA0512,PPA049,D297,R004,High,Partially Reimbursed,45,None,8470
+MA0513,PPA050,D355,R001,Medium,Partially Reimbursed,64,Step Therapy,3318
+MA0514,PPA050,D341,R008,Low,Not Reimbursed,68,Prior Authorization,1320
+MA0515,PPA050,D025,R003,High,Not Reimbursed,42,None,765
+MA0516,PPA050,D196,R009,Medium,Reimbursed,46,None,9668
+MA0517,PPA050,D199,R009,Medium,Reimbursed,59,Step Therapy,2636
+MA0518,PPA050,D214,R005,High,Reimbursed,30,None,5034
+MA0519,PPA050,D351,R003,Medium,Partially Reimbursed,65,Prior Authorization,5307
+MA0520,PPA050,D161,R007,Low,Partially Reimbursed,61,Step Therapy,8376
+MA0521,PPA050,D283,R008,High,Reimbursed,44,None,5824
+MA0522,PPA051,D110,R005,Low,Partially Reimbursed,52,Step Therapy,5358
+MA0523,PPA051,D340,R006,Medium,Not Reimbursed,37,Prior Authorization,8951
+MA0524,PPA051,D170,R008,Low,Partially Reimbursed,83,Quantity Limit,6243
+MA0525,PPA051,D185,R007,Low,Not Reimbursed,78,Step Therapy,4956
+MA0526,PPA051,D151,R002,Low,Partially Reimbursed,82,Prior Authorization,1672
+MA0527,PPA051,D112,R004,High,Not Reimbursed,44,None,1172
+MA0528,PPA051,D317,R003,High,Partially Reimbursed,23,Step Therapy,7050
+MA0529,PPA051,D272,R007,High,Reimbursed,37,Prior Authorization,1281
+MA0530,PPA052,D079,R005,Low,Partially Reimbursed,55,Prior Authorization,7270
+MA0531,PPA052,D013,R005,Medium,Partially Reimbursed,72,None,2661
+MA0532,PPA052,D236,R005,Low,Partially Reimbursed,97,Prior Authorization,9041
+MA0533,PPA052,D170,R004,Medium,Not Reimbursed,39,Prior Authorization,6213
+MA0534,PPA052,D020,R004,High,Reimbursed,45,None,784
+MA0535,PPA052,D045,R002,High,Reimbursed,35,None,1494
+MA0536,PPA052,D038,R001,Medium,Reimbursed,52,Prior Authorization,8497
+MA0537,PPA052,D028,R008,High,Reimbursed,24,Prior Authorization,4240
+MA0538,PPA052,D092,R001,High,Reimbursed,46,Step Therapy,9092
+MA0539,PPA052,D129,R008,Medium,Partially Reimbursed,34,Prior Authorization,1203
+MA0540,PPA052,D286,R001,Medium,Reimbursed,67,Step Therapy,5520
+MA0541,PPA052,D037,R009,Medium,Reimbursed,71,Prior Authorization,4771
+MA0542,PPA052,D295,R004,Low,Reimbursed,62,Prior Authorization,7483
+MA0543,PPA052,D117,R006,Medium,Partially Reimbursed,49,Step Therapy,2596
+MA0544,PPA052,D133,R003,Low,Not Reimbursed,70,Quantity Limit,2862
+MA0545,PPA053,D161,R005,Medium,Partially Reimbursed,49,Step Therapy,1883
+MA0546,PPA053,D127,R009,High,Partially Reimbursed,15,Step Therapy,2393
+MA0547,PPA053,D114,R002,Low,Partially Reimbursed,96,Quantity Limit,1352
+MA0548,PPA053,D365,R008,Low,Reimbursed,51,Quantity Limit,611
+MA0549,PPA053,D329,R009,Low,Not Reimbursed,99,Step Therapy,700
+MA0550,PPA054,D134,R006,High,Partially Reimbursed,40,Quantity Limit,762
+MA0551,PPA054,D279,R001,High,Partially Reimbursed,24,None,6152
+MA0552,PPA054,D277,R004,High,Reimbursed,23,None,6018
+MA0553,PPA054,D242,R001,Medium,Partially Reimbursed,59,Quantity Limit,753
+MA0554,PPA054,D335,R003,Low,Partially Reimbursed,95,Quantity Limit,4580
+MA0555,PPA054,D077,R010,Low,Partially Reimbursed,84,Step Therapy,6271
+MA0556,PPA054,D188,R010,Low,Partially Reimbursed,87,Step Therapy,1375
+MA0557,PPA054,D201,R007,Low,Partially Reimbursed,64,Step Therapy,5881
+MA0558,PPA054,D115,R008,Medium,Partially Reimbursed,60,Quantity Limit,208
+MA0559,PPA054,D302,R002,Low,Not Reimbursed,78,Prior Authorization,1363
+MA0560,PPA054,D149,R002,Low,Not Reimbursed,63,Prior Authorization,2678
+MA0561,PPA054,D069,R006,Medium,Partially Reimbursed,37,Step Therapy,6893
+MA0562,PPA054,D238,R006,Medium,Partially Reimbursed,60,Step Therapy,7948
+MA0563,PPA055,D303,R006,Medium,Partially Reimbursed,66,Step Therapy,4744
+MA0564,PPA055,D083,R002,High,Reimbursed,48,Quantity Limit,7991
+MA0565,PPA055,D332,R007,High,Reimbursed,36,Prior Authorization,9646
+MA0566,PPA055,D211,R001,High,Partially Reimbursed,42,None,5714
+MA0567,PPA055,D012,R006,Medium,Partially Reimbursed,34,Prior Authorization,6415
+MA0568,PPA055,D125,R001,High,Reimbursed,22,None,8363
+MA0569,PPA055,D023,R003,Low,Not Reimbursed,59,Step Therapy,3006
+MA0570,PPA055,D066,R002,Medium,Not Reimbursed,68,None,8806
+MA0571,PPA056,D061,R004,Medium,Partially Reimbursed,35,Prior Authorization,9008
+MA0572,PPA056,D048,R001,Medium,Reimbursed,30,Step Therapy,216
+MA0573,PPA056,D247,R006,Low,Not Reimbursed,83,None,3465
+MA0574,PPA056,D338,R003,Low,Not Reimbursed,76,Prior Authorization,2635
+MA0575,PPA056,D067,R009,Medium,Partially Reimbursed,46,Prior Authorization,8883
+MA0576,PPA056,D309,R008,Medium,Partially Reimbursed,69,Prior Authorization,6611
+MA0577,PPA056,D277,R004,High,Reimbursed,45,None,6165
+MA0578,PPA056,D001,R006,Low,Not Reimbursed,66,Quantity Limit,9564
+MA0579,PPA056,D348,R008,Medium,Partially Reimbursed,55,Step Therapy,2051
+MA0580,PPA056,D333,R008,Low,Partially Reimbursed,100,Step Therapy,2750
+MA0581,PPA056,D221,R007,High,Reimbursed,35,Step Therapy,9120
+MA0582,PPA056,D268,R001,Low,Not Reimbursed,95,Prior Authorization,6475
+MA0583,PPA056,D216,R002,Low,Reimbursed,55,Quantity Limit,7827
+MA0584,PPA057,D223,R003,Low,Partially Reimbursed,52,Prior Authorization,104
+MA0585,PPA057,D046,R010,High,Reimbursed,27,Step Therapy,5885
+MA0586,PPA057,D033,R001,Low,Partially Reimbursed,87,Prior Authorization,351
+MA0587,PPA057,D135,R008,Low,Not Reimbursed,55,Step Therapy,9260
+MA0588,PPA057,D114,R002,Low,Partially Reimbursed,67,Prior Authorization,3287
+MA0589,PPA057,D190,R005,Medium,Not Reimbursed,66,None,2967
+MA0590,PPA057,D041,R001,Medium,Partially Reimbursed,65,None,4921
+MA0591,PPA057,D312,R009,Medium,Not Reimbursed,62,Quantity Limit,8913
+MA0592,PPA057,D020,R010,Low,Partially Reimbursed,78,Quantity Limit,9326
+MA0593,PPA057,D197,R006,Medium,Partially Reimbursed,51,Quantity Limit,7617
+MA0594,PPA057,D206,R002,Low,Not Reimbursed,87,Quantity Limit,7996
+MA0595,PPA057,D315,R008,High,Reimbursed,34,Prior Authorization,3710
+MA0596,PPA057,D336,R006,Low,Not Reimbursed,70,Prior Authorization,5885
+MA0597,PPA057,D267,R007,Low,Not Reimbursed,94,Quantity Limit,4167
+MA0598,PPA058,D048,R004,Medium,Reimbursed,42,Quantity Limit,5933
+MA0599,PPA058,D205,R009,High,Partially Reimbursed,17,Quantity Limit,8171
+MA0600,PPA058,D345,R003,Low,Reimbursed,84,Quantity Limit,8001
+MA0601,PPA058,D176,R010,Medium,Partially Reimbursed,61,Quantity Limit,9512
+MA0602,PPA058,D039,R007,Medium,Partially Reimbursed,62,Prior Authorization,3738
+MA0603,PPA058,D284,R010,Low,Partially Reimbursed,83,Step Therapy,7936
+MA0604,PPA058,D092,R005,Low,Reimbursed,72,Prior Authorization,2963
+MA0605,PPA058,D244,R002,Medium,Not Reimbursed,74,Step Therapy,5271
+MA0606,PPA058,D161,R008,Low,Reimbursed,93,Prior Authorization,9619
+MA0607,PPA059,D167,R003,Medium,Partially Reimbursed,53,Prior Authorization,6663
+MA0608,PPA059,D186,R003,Medium,Partially Reimbursed,66,None,9535
+MA0609,PPA059,D314,R010,Low,Partially Reimbursed,56,Step Therapy,3963
+MA0610,PPA059,D133,R004,Low,Not Reimbursed,74,Prior Authorization,2550
+MA0611,PPA059,D096,R002,Medium,Not Reimbursed,41,Step Therapy,2303
+MA0612,PPA059,D281,R005,Low,Not Reimbursed,96,Prior Authorization,8072
+MA0613,PPA060,D129,R003,Medium,Reimbursed,37,Prior Authorization,3359
+MA0614,PPA060,D288,R003,Low,Not Reimbursed,91,Step Therapy,4763
+MA0615,PPA060,D291,R009,Medium,Partially Reimbursed,62,Step Therapy,7422
+MA0616,PPA060,D025,R001,High,Reimbursed,28,None,2473
+MA0617,PPA060,D204,R008,High,Partially Reimbursed,31,None,9465
+MA0618,PPA060,D051,R003,Medium,Not Reimbursed,34,None,5729
+MA0619,PPA060,D354,R004,High,Reimbursed,28,Prior Authorization,6579
+MA0620,PPA060,D084,R006,Medium,Not Reimbursed,53,Step Therapy,8635
+MA0621,PPA060,D031,R009,Medium,Partially Reimbursed,41,Quantity Limit,2148
+MA0622,PPA061,D339,R001,Low,Partially Reimbursed,91,Quantity Limit,6487
+MA0623,PPA061,D129,R010,Medium,Reimbursed,48,Step Therapy,2171
+MA0624,PPA061,D359,R005,High,Reimbursed,20,None,5946
+MA0625,PPA061,D041,R001,Medium,Not Reimbursed,59,Quantity Limit,8956
+MA0626,PPA061,D108,R008,Medium,Partially Reimbursed,38,Quantity Limit,8935
+MA0627,PPA061,D086,R006,High,Reimbursed,39,Prior Authorization,9340
+MA0628,PPA061,D204,R010,Medium,Partially Reimbursed,70,Step Therapy,5788
+MA0629,PPA061,D053,R002,Medium,Partially Reimbursed,35,Step Therapy,6092
+MA0630,PPA062,D134,R001,Low,Not Reimbursed,65,Prior Authorization,6485
+MA0631,PPA062,D080,R010,Medium,Reimbursed,35,Step Therapy,4024
+MA0632,PPA062,D156,R010,Low,Not Reimbursed,89,Quantity Limit,4554
+MA0633,PPA062,D006,R005,Medium,Partially Reimbursed,64,Quantity Limit,6865
+MA0634,PPA062,D001,R001,High,Partially Reimbursed,21,None,1908
+MA0635,PPA062,D268,R005,Low,Not Reimbursed,78,Prior Authorization,8160
+MA0636,PPA062,D070,R003,High,Reimbursed,19,None,8864
+MA0637,PPA062,D177,R003,High,Reimbursed,16,None,2148
+MA0638,PPA062,D147,R001,Low,Not Reimbursed,50,Prior Authorization,2568
+MA0639,PPA062,D241,R004,High,Reimbursed,31,None,8265
+MA0640,PPA062,D274,R005,Medium,Partially Reimbursed,32,Prior Authorization,2493
+MA0641,PPA063,D137,R002,Low,Partially Reimbursed,99,Quantity Limit,4149
+MA0642,PPA063,D201,R009,Low,Not Reimbursed,62,Step Therapy,1639
+MA0643,PPA063,D037,R003,Low,Not Reimbursed,63,Step Therapy,5213
+MA0644,PPA063,D279,R004,Medium,Reimbursed,32,Step Therapy,9104
+MA0645,PPA063,D241,R001,Low,Partially Reimbursed,80,Step Therapy,3355
+MA0646,PPA064,D027,R008,High,Reimbursed,15,Prior Authorization,5644
+MA0647,PPA064,D342,R006,Low,Reimbursed,72,Step Therapy,8887
+MA0648,PPA064,D112,R004,High,Reimbursed,24,None,9248
+MA0649,PPA064,D058,R003,Low,Not Reimbursed,78,Step Therapy,449
+MA0650,PPA064,D121,R010,Low,Partially Reimbursed,96,Prior Authorization,746
+MA0651,PPA064,D325,R006,Medium,Partially Reimbursed,65,Prior Authorization,8129
+MA0652,PPA064,D223,R007,High,Reimbursed,44,None,7774
+MA0653,PPA064,D167,R007,Medium,Not Reimbursed,68,Quantity Limit,9185
+MA0654,PPA064,D008,R002,High,Reimbursed,19,None,4414
+MA0655,PPA064,D086,R008,Low,Partially Reimbursed,50,Step Therapy,8389
+MA0656,PPA065,D095,R006,High,Reimbursed,41,None,621
+MA0657,PPA065,D010,R005,Low,Not Reimbursed,74,Step Therapy,8715
+MA0658,PPA065,D318,R006,Low,Not Reimbursed,66,None,3716
+MA0659,PPA065,D187,R007,Low,Not Reimbursed,50,Quantity Limit,3519
+MA0660,PPA065,D123,R004,Low,Not Reimbursed,55,Step Therapy,1094
+MA0661,PPA065,D165,R007,Medium,Partially Reimbursed,56,Quantity Limit,1055
+MA0662,PPA065,D033,R002,Low,Partially Reimbursed,52,Step Therapy,5079
+MA0663,PPA065,D338,R006,High,Not Reimbursed,43,None,3884
+MA0664,PPA065,D276,R001,Low,Partially Reimbursed,62,Step Therapy,4175
+MA0665,PPA065,D199,R009,Low,Not Reimbursed,61,Step Therapy,9244
+MA0666,PPA065,D098,R002,Medium,Partially Reimbursed,70,Step Therapy,7615
+MA0667,PPA066,D219,R006,High,Partially Reimbursed,28,None,8580
+MA0668,PPA066,D054,R010,High,Not Reimbursed,29,None,3735
+MA0669,PPA066,D086,R009,High,Partially Reimbursed,11,Step Therapy,4621
+MA0670,PPA066,D093,R005,Low,Not Reimbursed,86,Quantity Limit,2634
+MA0671,PPA066,D282,R007,High,Reimbursed,32,None,4441
+MA0672,PPA066,D206,R009,Medium,Not Reimbursed,45,Prior Authorization,5020
+MA0673,PPA066,D259,R004,High,Reimbursed,46,Quantity Limit,1364
+MA0674,PPA066,D173,R003,Low,Partially Reimbursed,80,Prior Authorization,9540
+MA0675,PPA066,D337,R006,High,Reimbursed,29,None,9541
+MA0676,PPA066,D081,R004,Medium,Reimbursed,33,Quantity Limit,5578
+MA0677,PPA066,D274,R006,Medium,Not Reimbursed,57,Step Therapy,2074
+MA0678,PPA066,D308,R008,High,Partially Reimbursed,48,Quantity Limit,6366
+MA0679,PPA066,D227,R004,High,Reimbursed,12,None,9355
+MA0680,PPA066,D181,R005,High,Reimbursed,24,None,6536
+MA0681,PPA066,D162,R010,Medium,Partially Reimbursed,66,Step Therapy,3738
+MA0682,PPA067,D149,R003,Low,Partially Reimbursed,54,Prior Authorization,7146
+MA0683,PPA067,D202,R004,Medium,Partially Reimbursed,66,None,6876
+MA0684,PPA067,D076,R005,Medium,Partially Reimbursed,42,Prior Authorization,9830
+MA0685,PPA067,D068,R007,Low,Reimbursed,69,Prior Authorization,5829
+MA0686,PPA067,D173,R008,Low,Not Reimbursed,78,Step Therapy,7316
+MA0687,PPA067,D043,R005,High,Not Reimbursed,24,None,6224
+MA0688,PPA067,D244,R002,High,Partially Reimbursed,15,None,993
+MA0689,PPA067,D293,R004,High,Not Reimbursed,19,Step Therapy,4813
+MA0690,PPA067,D026,R006,High,Reimbursed,17,None,7819
+MA0691,PPA067,D281,R006,High,Reimbursed,44,None,9052
+MA0692,PPA067,D205,R010,Low,Not Reimbursed,85,Step Therapy,2415
+MA0693,PPA068,D010,R005,Medium,Not Reimbursed,64,None,3358
+MA0694,PPA068,D193,R010,Low,Not Reimbursed,85,Quantity Limit,452
+MA0695,PPA068,D299,R001,High,Reimbursed,43,None,8127
+MA0696,PPA068,D340,R007,Medium,Partially Reimbursed,31,Prior Authorization,5865
+MA0697,PPA068,D270,R007,Medium,Partially Reimbursed,45,Quantity Limit,8312
+MA0698,PPA068,D023,R010,Medium,Not Reimbursed,70,Prior Authorization,6443
+MA0699,PPA068,D131,R004,High,Not Reimbursed,27,None,5699
+MA0700,PPA068,D088,R002,Medium,Partially Reimbursed,35,Step Therapy,8631
+MA0701,PPA068,D031,R003,Low,Not Reimbursed,90,Step Therapy,6937
+MA0702,PPA068,D146,R009,High,Reimbursed,37,Quantity Limit,5495
+MA0703,PPA068,D103,R004,Medium,Partially Reimbursed,43,Step Therapy,9619
+MA0704,PPA068,D357,R010,Low,Not Reimbursed,62,Quantity Limit,5162
+MA0705,PPA068,D317,R006,Low,Not Reimbursed,83,Quantity Limit,7146
+MA0706,PPA068,D139,R008,High,Partially Reimbursed,46,Quantity Limit,5301
+MA0707,PPA068,D028,R010,High,Reimbursed,17,None,2484
+MA0708,PPA069,D164,R008,High,Reimbursed,21,None,4472
+MA0709,PPA069,D212,R009,Low,Not Reimbursed,64,Step Therapy,3883
+MA0710,PPA069,D211,R007,Low,Reimbursed,55,Step Therapy,7908
+MA0711,PPA069,D156,R008,High,Reimbursed,48,None,6226
+MA0712,PPA069,D227,R002,High,Partially Reimbursed,41,None,2783
+MA0713,PPA070,D116,R010,Medium,Not Reimbursed,57,Step Therapy,785
+MA0714,PPA070,D017,R008,Low,Not Reimbursed,74,Step Therapy,6557
+MA0715,PPA070,D210,R001,Low,Not Reimbursed,86,Step Therapy,8705
+MA0716,PPA070,D008,R010,Low,Not Reimbursed,100,None,1891
+MA0717,PPA070,D139,R010,Medium,Partially Reimbursed,32,Quantity Limit,4125
+MA0718,PPA070,D212,R009,Low,Not Reimbursed,97,None,6447
+MA0719,PPA070,D114,R005,Low,Not Reimbursed,53,Prior Authorization,7301
+MA0720,PPA070,D344,R004,Medium,Not Reimbursed,48,Step Therapy,7021
+MA0721,PPA071,D314,R008,Low,Not Reimbursed,62,Quantity Limit,1577
+MA0722,PPA071,D028,R002,Medium,Partially Reimbursed,71,Quantity Limit,2786
+MA0723,PPA071,D354,R008,Low,Not Reimbursed,55,Prior Authorization,7462
+MA0724,PPA071,D265,R010,Low,Partially Reimbursed,83,Step Therapy,8483
+MA0725,PPA071,D073,R007,Low,Not Reimbursed,74,Step Therapy,819
+MA0726,PPA071,D238,R002,High,Not Reimbursed,46,Step Therapy,2559
+MA0727,PPA071,D331,R005,High,Partially Reimbursed,21,Step Therapy,940
+MA0728,PPA071,D232,R005,Medium,Partially Reimbursed,58,Prior Authorization,3060
+MA0729,PPA071,D047,R002,High,Partially Reimbursed,22,None,4246
+MA0730,PPA072,D235,R007,Medium,Reimbursed,68,None,9067
+MA0731,PPA072,D255,R005,Medium,Partially Reimbursed,65,Quantity Limit,3501
+MA0732,PPA072,D256,R003,High,Reimbursed,13,Prior Authorization,701
+MA0733,PPA072,D279,R007,High,Partially Reimbursed,46,Step Therapy,4989
+MA0734,PPA072,D003,R005,Medium,Not Reimbursed,33,None,3020
+MA0735,PPA073,D345,R006,Medium,Partially Reimbursed,54,Quantity Limit,7101
+MA0736,PPA073,D146,R006,Low,Reimbursed,80,Prior Authorization,4596
+MA0737,PPA073,D313,R010,Medium,Partially Reimbursed,63,Prior Authorization,3525
+MA0738,PPA073,D339,R008,Low,Reimbursed,86,Step Therapy,8766
+MA0739,PPA073,D355,R004,High,Reimbursed,48,Quantity Limit,4805
+MA0740,PPA073,D359,R001,Medium,Partially Reimbursed,50,Prior Authorization,9523
+MA0741,PPA073,D305,R008,Low,Partially Reimbursed,58,Step Therapy,8232
+MA0742,PPA074,D324,R007,Medium,Partially Reimbursed,65,Prior Authorization,200
+MA0743,PPA074,D255,R002,High,Partially Reimbursed,31,None,9421
+MA0744,PPA074,D253,R009,Low,Not Reimbursed,61,Prior Authorization,5636
+MA0745,PPA074,D093,R008,Low,Not Reimbursed,80,Step Therapy,2324
+MA0746,PPA074,D313,R010,Medium,Reimbursed,59,Quantity Limit,8897
+MA0747,PPA074,D120,R005,Medium,Partially Reimbursed,56,Quantity Limit,1017
+MA0748,PPA074,D363,R004,Low,Partially Reimbursed,96,Step Therapy,9196
+MA0749,PPA074,D149,R006,Low,Reimbursed,86,Step Therapy,5893
+MA0750,PPA074,D100,R007,High,Not Reimbursed,27,Step Therapy,5656
+MA0751,PPA074,D001,R001,Medium,Partially Reimbursed,40,Step Therapy,6482
+MA0752,PPA074,D061,R003,High,Reimbursed,29,Prior Authorization,5252
+MA0753,PPA074,D013,R003,Low,Reimbursed,76,Prior Authorization,3993
+MA0754,PPA074,D239,R008,Medium,Partially Reimbursed,49,Prior Authorization,5053
+MA0755,PPA075,D058,R001,Medium,Reimbursed,36,Quantity Limit,8556
+MA0756,PPA075,D192,R005,Low,Not Reimbursed,63,Step Therapy,7626
+MA0757,PPA075,D020,R006,Medium,Partially Reimbursed,63,None,5195
+MA0758,PPA075,D104,R002,High,Partially Reimbursed,48,Step Therapy,5560
+MA0759,PPA075,D048,R010,Medium,Not Reimbursed,36,Step Therapy,5219
+MA0760,PPA075,D228,R008,High,Reimbursed,29,Prior Authorization,3538
+MA0761,PPA075,D260,R006,Medium,Reimbursed,48,Prior Authorization,5328
+MA0762,PPA076,D344,R003,Medium,Not Reimbursed,33,None,981
+MA0763,PPA076,D061,R004,High,Reimbursed,21,Prior Authorization,9811
+MA0764,PPA076,D140,R004,Low,Not Reimbursed,94,Prior Authorization,5926
+MA0765,PPA076,D077,R002,Medium,Partially Reimbursed,42,Step Therapy,8840
+MA0766,PPA076,D081,R008,High,Not Reimbursed,39,None,1622
+MA0767,PPA076,D141,R003,Low,Not Reimbursed,79,Prior Authorization,7725
+MA0768,PPA076,D059,R003,Medium,Reimbursed,44,None,4327
+MA0769,PPA076,D008,R001,Medium,Partially Reimbursed,74,Quantity Limit,5512
+MA0770,PPA076,D319,R007,Medium,Partially Reimbursed,31,None,1949
+MA0771,PPA076,D287,R004,Medium,Partially Reimbursed,40,Prior Authorization,5811
+MA0772,PPA076,D264,R005,Low,Not Reimbursed,82,Prior Authorization,1852
+MA0773,PPA076,D053,R002,Medium,Partially Reimbursed,34,Quantity Limit,8828
+MA0774,PPA077,D206,R003,High,Reimbursed,39,None,1699
+MA0775,PPA077,D303,R007,Medium,Reimbursed,55,None,1881
+MA0776,PPA077,D212,R005,Low,Not Reimbursed,99,Quantity Limit,5464
+MA0777,PPA077,D123,R010,Medium,Partially Reimbursed,33,None,2376
+MA0778,PPA077,D318,R006,Low,Not Reimbursed,90,Quantity Limit,2503
+MA0779,PPA077,D125,R004,Low,Partially Reimbursed,84,Prior Authorization,9568
+MA0780,PPA077,D281,R007,Medium,Reimbursed,73,Quantity Limit,5010
+MA0781,PPA077,D082,R002,Low,Not Reimbursed,93,Prior Authorization,7222
+MA0782,PPA077,D247,R007,Low,Not Reimbursed,72,Quantity Limit,9647
+MA0783,PPA077,D197,R008,High,Partially Reimbursed,42,None,2189
+MA0784,PPA077,D034,R008,Medium,Reimbursed,65,Quantity Limit,113
+MA0785,PPA077,D175,R009,Low,Not Reimbursed,72,Prior Authorization,4723
+MA0786,PPA078,D121,R007,High,Reimbursed,22,None,6002
+MA0787,PPA078,D222,R008,Medium,Reimbursed,72,None,290
+MA0788,PPA078,D360,R005,High,Partially Reimbursed,19,Prior Authorization,8074
+MA0789,PPA078,D303,R005,Low,Not Reimbursed,58,Prior Authorization,6913
+MA0790,PPA078,D202,R003,Medium,Not Reimbursed,74,Step Therapy,7074
+MA0791,PPA079,D093,R009,Medium,Partially Reimbursed,35,Step Therapy,1549
+MA0792,PPA079,D233,R003,High,Reimbursed,14,Prior Authorization,8934
+MA0793,PPA079,D261,R006,Low,Partially Reimbursed,53,Quantity Limit,8865
+MA0794,PPA079,D218,R005,High,Reimbursed,42,Quantity Limit,9503
+MA0795,PPA079,D283,R006,Low,Partially Reimbursed,72,Quantity Limit,4927
+MA0796,PPA079,D231,R004,Medium,Reimbursed,74,Quantity Limit,5081
+MA0797,PPA079,D197,R010,Low,Not Reimbursed,66,Prior Authorization,7852
+MA0798,PPA079,D182,R006,Low,Partially Reimbursed,53,Step Therapy,4880
+MA0799,PPA079,D116,R008,Low,Not Reimbursed,68,Step Therapy,2177
+MA0800,PPA079,D096,R002,Low,Reimbursed,100,Prior Authorization,2271
+MA0801,PPA079,D310,R005,Low,Partially Reimbursed,66,None,1927
+MA0802,PPA079,D004,R007,Low,Partially Reimbursed,87,Step Therapy,7417
+MA0803,PPA079,D296,R002,Medium,Not Reimbursed,46,Quantity Limit,3969
+MA0804,PPA079,D256,R008,Medium,Reimbursed,63,Quantity Limit,5717
+MA0805,PPA080,D075,R003,Low,Partially Reimbursed,57,Prior Authorization,7702
+MA0806,PPA080,D305,R005,Medium,Partially Reimbursed,60,Step Therapy,8824
+MA0807,PPA080,D079,R007,High,Reimbursed,34,None,2478
+MA0808,PPA080,D254,R003,Low,Not Reimbursed,50,Prior Authorization,7453
+MA0809,PPA080,D212,R008,Medium,Partially Reimbursed,63,Step Therapy,772
+MA0810,PPA080,D197,R004,High,Not Reimbursed,50,None,7174
+MA0811,PPA081,D334,R006,High,Reimbursed,49,None,9834
+MA0812,PPA081,D140,R002,Low,Not Reimbursed,63,Quantity Limit,2095
+MA0813,PPA081,D172,R004,Low,Not Reimbursed,55,Quantity Limit,2228
+MA0814,PPA081,D139,R007,Medium,Partially Reimbursed,71,Step Therapy,3127
+MA0815,PPA081,D137,R002,High,Partially Reimbursed,26,None,1340
+MA0816,PPA081,D051,R006,Low,Not Reimbursed,67,Step Therapy,5398
+MA0817,PPA081,D131,R007,Medium,Reimbursed,34,Prior Authorization,1122
+MA0818,PPA081,D336,R009,Medium,Partially Reimbursed,33,Prior Authorization,4436
+MA0819,PPA081,D300,R001,High,Reimbursed,41,Quantity Limit,3387
+MA0820,PPA081,D201,R001,Low,Partially Reimbursed,91,Step Therapy,2457
+MA0821,PPA081,D237,R002,Low,Not Reimbursed,63,Step Therapy,1840
+MA0822,PPA081,D346,R005,Medium,Partially Reimbursed,36,None,1253
+MA0823,PPA081,D124,R003,Low,Not Reimbursed,99,Prior Authorization,8254
+MA0824,PPA081,D345,R003,High,Partially Reimbursed,10,Quantity Limit,6497
+MA0825,PPA082,D078,R005,High,Reimbursed,32,None,5061
+MA0826,PPA082,D359,R005,Medium,Reimbursed,71,None,8859
+MA0827,PPA082,D169,R008,Medium,Reimbursed,59,Quantity Limit,4850
+MA0828,PPA082,D201,R009,Low,Partially Reimbursed,85,None,6394
+MA0829,PPA082,D295,R001,Low,Partially Reimbursed,94,Prior Authorization,1849
+MA0830,PPA082,D002,R003,Low,Not Reimbursed,81,Prior Authorization,7275
+MA0831,PPA082,D264,R004,Low,Partially Reimbursed,52,Prior Authorization,9814
+MA0832,PPA082,D363,R007,High,Reimbursed,14,Step Therapy,5141
+MA0833,PPA082,D252,R008,Medium,Partially Reimbursed,58,Quantity Limit,368
+MA0834,PPA083,D174,R002,Low,Partially Reimbursed,87,Prior Authorization,1280
+MA0835,PPA083,D029,R009,High,Partially Reimbursed,41,Prior Authorization,7820
+MA0836,PPA083,D173,R007,Low,Reimbursed,94,Step Therapy,335
+MA0837,PPA083,D022,R005,High,Partially Reimbursed,29,Step Therapy,1694
+MA0838,PPA083,D208,R007,Medium,Partially Reimbursed,67,None,1842
+MA0839,PPA084,D255,R005,Low,Not Reimbursed,70,Quantity Limit,3593
+MA0840,PPA084,D305,R009,High,Reimbursed,31,None,4587
+MA0841,PPA084,D316,R010,High,Partially Reimbursed,20,Prior Authorization,9167
+MA0842,PPA084,D113,R007,High,Reimbursed,47,None,1737
+MA0843,PPA084,D033,R004,Low,Not Reimbursed,99,Prior Authorization,8078
+MA0844,PPA084,D104,R010,High,Reimbursed,21,Quantity Limit,9827
+MA0845,PPA085,D214,R006,Medium,Partially Reimbursed,30,Step Therapy,3244
+MA0846,PPA085,D356,R005,High,Not Reimbursed,16,Prior Authorization,8942
+MA0847,PPA085,D244,R010,Low,Partially Reimbursed,99,Step Therapy,3509
+MA0848,PPA085,D355,R007,Medium,Reimbursed,37,Quantity Limit,7872
+MA0849,PPA085,D065,R001,Medium,Reimbursed,72,Quantity Limit,985
+MA0850,PPA085,D106,R002,Low,Partially Reimbursed,63,Prior Authorization,5577
+MA0851,PPA085,D074,R005,Low,Not Reimbursed,98,Step Therapy,1810
+MA0852,PPA085,D328,R010,Low,Reimbursed,84,Prior Authorization,576
+MA0853,PPA085,D139,R007,Medium,Partially Reimbursed,34,Quantity Limit,7387
+MA0854,PPA086,D297,R001,Low,Reimbursed,58,Prior Authorization,7727
+MA0855,PPA086,D167,R006,Medium,Partially Reimbursed,51,Prior Authorization,4935
+MA0856,PPA086,D215,R001,Low,Partially Reimbursed,100,Step Therapy,2884
+MA0857,PPA086,D102,R005,Low,Not Reimbursed,64,Prior Authorization,8648
+MA0858,PPA086,D347,R003,Medium,Not Reimbursed,43,Step Therapy,7681
+MA0859,PPA086,D118,R007,Medium,Reimbursed,57,Step Therapy,4141
+MA0860,PPA086,D057,R002,High,Reimbursed,47,None,9795
+MA0861,PPA086,D117,R004,High,Not Reimbursed,10,None,824
+MA0862,PPA086,D051,R005,High,Not Reimbursed,42,None,8801
+MA0863,PPA086,D122,R002,Medium,Partially Reimbursed,74,Quantity Limit,7512
+MA0864,PPA086,D212,R004,Medium,Reimbursed,65,Quantity Limit,6762
+MA0865,PPA086,D103,R003,High,Reimbursed,28,None,1586
+MA0866,PPA086,D193,R004,High,Reimbursed,29,None,7624
+MA0867,PPA086,D113,R001,Low,Not Reimbursed,51,Quantity Limit,7698
+MA0868,PPA087,D361,R001,Low,Not Reimbursed,84,Step Therapy,3493
+MA0869,PPA087,D208,R007,Low,Reimbursed,71,Step Therapy,998
+MA0870,PPA087,D095,R004,Low,Not Reimbursed,93,Prior Authorization,944
+MA0871,PPA087,D190,R007,High,Reimbursed,39,Prior Authorization,6089
+MA0872,PPA087,D321,R006,Medium,Reimbursed,65,Step Therapy,9287
+MA0873,PPA087,D238,R003,Low,Not Reimbursed,58,Quantity Limit,4009
+MA0874,PPA087,D325,R008,Low,Partially Reimbursed,80,Step Therapy,9604
+MA0875,PPA088,D116,R001,Medium,Partially Reimbursed,53,Quantity Limit,1175
+MA0876,PPA088,D165,R004,High,Partially Reimbursed,39,None,6500
+MA0877,PPA088,D181,R005,High,Reimbursed,14,None,4621
+MA0878,PPA088,D137,R006,High,Partially Reimbursed,41,None,3446
+MA0879,PPA088,D258,R009,Low,Not Reimbursed,51,Prior Authorization,8970
+MA0880,PPA088,D349,R005,High,Reimbursed,36,None,451
+MA0881,PPA088,D217,R006,Medium,Reimbursed,31,Quantity Limit,3906
+MA0882,PPA088,D142,R009,Low,Not Reimbursed,76,Step Therapy,5446
+MA0883,PPA089,D304,R008,High,Partially Reimbursed,19,None,2015
+MA0884,PPA089,D341,R003,High,Not Reimbursed,46,None,4366
+MA0885,PPA089,D357,R004,Medium,Reimbursed,65,Step Therapy,5292
+MA0886,PPA089,D272,R003,Medium,Reimbursed,58,Step Therapy,2763
+MA0887,PPA089,D281,R009,Low,Partially Reimbursed,51,Prior Authorization,8282
+MA0888,PPA089,D228,R002,High,Not Reimbursed,30,None,9048
+MA0889,PPA089,D235,R003,Low,Partially Reimbursed,95,Prior Authorization,4848
+MA0890,PPA089,D156,R010,Low,Not Reimbursed,86,Step Therapy,7343
+MA0891,PPA089,D291,R007,Medium,Partially Reimbursed,60,Quantity Limit,2384
+MA0892,PPA089,D068,R002,Low,Not Reimbursed,69,None,3710
+MA0893,PPA089,D157,R006,Medium,Partially Reimbursed,50,None,3297
+MA0894,PPA089,D088,R002,Low,Not Reimbursed,100,Quantity Limit,4653
+MA0895,PPA090,D012,R004,Medium,Partially Reimbursed,53,None,5751
+MA0896,PPA090,D043,R005,Medium,Partially Reimbursed,58,Quantity Limit,1535
+MA0897,PPA090,D276,R007,High,Partially Reimbursed,38,Prior Authorization,6909
+MA0898,PPA090,D229,R006,Medium,Reimbursed,57,Step Therapy,6886
+MA0899,PPA090,D347,R001,High,Partially Reimbursed,48,None,3504
+MA0900,PPA090,D344,R007,Medium,Partially Reimbursed,63,Quantity Limit,1183
+MA0901,PPA090,D045,R004,Low,Not Reimbursed,55,None,4578
+MA0902,PPA090,D263,R008,Medium,Reimbursed,59,Step Therapy,2343
+MA0903,PPA091,D096,R004,Medium,Reimbursed,72,Quantity Limit,6934
+MA0904,PPA091,D196,R006,High,Reimbursed,25,None,4641
+MA0905,PPA091,D149,R005,Medium,Not Reimbursed,34,Step Therapy,6027
+MA0906,PPA091,D284,R001,Low,Not Reimbursed,77,Quantity Limit,7899
+MA0907,PPA091,D252,R001,Low,Not Reimbursed,73,Step Therapy,9525
+MA0908,PPA091,D022,R003,High,Partially Reimbursed,20,None,2494
+MA0909,PPA091,D155,R010,Medium,Partially Reimbursed,74,None,2775
+MA0910,PPA091,D300,R009,High,Reimbursed,36,Prior Authorization,5932
+MA0911,PPA092,D149,R006,Low,Partially Reimbursed,70,Quantity Limit,5032
+MA0912,PPA092,D150,R008,Medium,Partially Reimbursed,74,Prior Authorization,8855
+MA0913,PPA092,D272,R002,Low,Partially Reimbursed,59,None,8589
+MA0914,PPA092,D328,R001,Medium,Partially Reimbursed,61,Step Therapy,2771
+MA0915,PPA092,D040,R008,High,Reimbursed,42,None,3187
+MA0916,PPA093,D315,R010,Low,Partially Reimbursed,64,Prior Authorization,3538
+MA0917,PPA093,D354,R005,High,Not Reimbursed,37,Prior Authorization,1930
+MA0918,PPA093,D270,R004,High,Reimbursed,40,Step Therapy,796
+MA0919,PPA093,D273,R004,High,Reimbursed,42,None,7785
+MA0920,PPA093,D365,R009,High,Not Reimbursed,12,None,268
+MA0921,PPA093,D283,R009,High,Partially Reimbursed,48,None,3377
+MA0922,PPA093,D360,R006,High,Partially Reimbursed,11,None,4644
+MA0923,PPA093,D059,R008,Low,Partially Reimbursed,60,Quantity Limit,4062
+MA0924,PPA093,D214,R004,Low,Not Reimbursed,56,Quantity Limit,329
+MA0925,PPA093,D236,R008,Low,Partially Reimbursed,62,Quantity Limit,2914
+MA0926,PPA093,D040,R001,Low,Reimbursed,96,Prior Authorization,3606
+MA0927,PPA093,D060,R009,Low,Not Reimbursed,80,Prior Authorization,9756
+MA0928,PPA093,D068,R003,High,Reimbursed,16,None,5913
+MA0929,PPA094,D218,R002,Medium,Reimbursed,56,Prior Authorization,7111
+MA0930,PPA094,D110,R008,High,Partially Reimbursed,40,Quantity Limit,6120
+MA0931,PPA094,D264,R008,High,Reimbursed,41,Prior Authorization,6594
+MA0932,PPA094,D117,R006,Medium,Partially Reimbursed,73,None,2448
+MA0933,PPA094,D209,R001,Medium,Partially Reimbursed,67,Quantity Limit,2864
+MA0934,PPA094,D058,R004,High,Reimbursed,22,None,9847
+MA0935,PPA094,D161,R002,Medium,Reimbursed,57,Step Therapy,4663
+MA0936,PPA094,D064,R003,Low,Not Reimbursed,87,Prior Authorization,6657
+MA0937,PPA094,D239,R007,Medium,Partially Reimbursed,68,Quantity Limit,8038
+MA0938,PPA094,D057,R004,Low,Partially Reimbursed,99,Step Therapy,2101
+MA0939,PPA094,D267,R010,Medium,Partially Reimbursed,44,Step Therapy,2305
+MA0940,PPA095,D051,R001,Low,Reimbursed,54,Step Therapy,8618
+MA0941,PPA095,D028,R002,Medium,Partially Reimbursed,42,Prior Authorization,8257
+MA0942,PPA095,D035,R007,Medium,Partially Reimbursed,64,Prior Authorization,8956
+MA0943,PPA095,D256,R004,Low,Reimbursed,98,None,7151
+MA0944,PPA095,D348,R004,High,Reimbursed,30,Step Therapy,7350
+MA0945,PPA096,D019,R008,Medium,Partially Reimbursed,52,Quantity Limit,4760
+MA0946,PPA096,D017,R005,Medium,Reimbursed,67,None,6103
+MA0947,PPA096,D091,R002,Medium,Not Reimbursed,67,None,5691
+MA0948,PPA096,D286,R007,Medium,Reimbursed,52,Quantity Limit,6849
+MA0949,PPA096,D338,R007,Medium,Reimbursed,45,Prior Authorization,5213
+MA0950,PPA096,D156,R007,Low,Reimbursed,94,Prior Authorization,5095
+MA0951,PPA096,D362,R006,High,Reimbursed,11,None,712
+MA0952,PPA096,D085,R005,Medium,Partially Reimbursed,57,Step Therapy,7000
+MA0953,PPA096,D252,R009,Medium,Reimbursed,60,Step Therapy,5285
+MA0954,PPA096,D221,R006,Medium,Partially Reimbursed,50,Step Therapy,8101
+MA0955,PPA096,D069,R004,High,Partially Reimbursed,23,None,8337
+MA0956,PPA096,D160,R005,Low,Partially Reimbursed,89,Prior Authorization,7243
+MA0957,PPA097,D255,R003,Medium,Reimbursed,63,Step Therapy,3536
+MA0958,PPA097,D326,R006,Medium,Partially Reimbursed,71,Quantity Limit,8368
+MA0959,PPA097,D039,R009,Medium,Partially Reimbursed,64,Prior Authorization,6888
+MA0960,PPA097,D275,R007,Medium,Reimbursed,62,Step Therapy,9071
+MA0961,PPA097,D110,R010,High,Partially Reimbursed,50,Prior Authorization,3156
+MA0962,PPA097,D148,R008,Low,Not Reimbursed,92,Quantity Limit,7756
+MA0963,PPA097,D136,R006,Medium,Not Reimbursed,64,Quantity Limit,7206
+MA0964,PPA097,D025,R006,Low,Not Reimbursed,53,Step Therapy,6068
+MA0965,PPA098,D076,R003,Medium,Partially Reimbursed,32,Prior Authorization,4568
+MA0966,PPA098,D124,R003,High,Reimbursed,27,Prior Authorization,2983
+MA0967,PPA098,D078,R002,Low,Not Reimbursed,96,Step Therapy,426
+MA0968,PPA098,D351,R007,High,Partially Reimbursed,15,None,4982
+MA0969,PPA098,D154,R003,High,Not Reimbursed,36,Step Therapy,1579
+MA0970,PPA098,D223,R003,Medium,Not Reimbursed,38,Prior Authorization,9454
+MA0971,PPA098,D211,R002,Low,Not Reimbursed,57,Step Therapy,9609
+MA0972,PPA098,D164,R001,Low,Partially Reimbursed,55,Prior Authorization,2103
+MA0973,PPA098,D033,R008,Medium,Partially Reimbursed,67,Step Therapy,3965
+MA0974,PPA098,D325,R004,Medium,Reimbursed,36,None,4598
+MA0975,PPA098,D105,R005,Medium,Partially Reimbursed,67,None,8840
+MA0976,PPA098,D212,R010,Medium,Partially Reimbursed,37,Prior Authorization,7043
+MA0977,PPA099,D350,R009,High,Partially Reimbursed,34,None,6538
+MA0978,PPA099,D127,R007,Medium,Partially Reimbursed,45,Prior Authorization,2725
+MA0979,PPA099,D143,R010,Medium,Partially Reimbursed,71,Step Therapy,655
+MA0980,PPA099,D075,R007,Medium,Not Reimbursed,61,Step Therapy,6865
+MA0981,PPA099,D186,R008,Medium,Partially Reimbursed,36,Quantity Limit,4375
+MA0982,PPA099,D244,R003,Low,Reimbursed,76,Step Therapy,9073
+MA0983,PPA099,D189,R006,Low,Partially Reimbursed,94,None,953
+MA0984,PPA099,D158,R004,Low,Not Reimbursed,90,Prior Authorization,2329
+MA0985,PPA099,D011,R010,High,Reimbursed,50,None,9534
+MA0986,PPA099,D331,R004,High,Reimbursed,25,None,2231
+MA0987,PPA099,D311,R009,Low,Not Reimbursed,100,Quantity Limit,7497
+MA0988,PPA099,D018,R002,Medium,Not Reimbursed,38,Prior Authorization,9816
+MA0989,PPA100,D145,R001,Low,Not Reimbursed,66,Prior Authorization,6128
+MA0990,PPA100,D102,R001,High,Not Reimbursed,17,None,8715
+MA0991,PPA100,D044,R006,Medium,Partially Reimbursed,59,Quantity Limit,8196
+MA0992,PPA100,D213,R007,High,Reimbursed,23,None,4461
+MA0993,PPA100,D189,R003,Medium,Partially Reimbursed,54,None,3485
+MA0994,PPA100,D094,R001,Low,Partially Reimbursed,68,Step Therapy,3202
+MA0995,PPA100,D202,R005,Medium,Reimbursed,39,None,4389
+MA0996,PPA100,D194,R003,High,Partially Reimbursed,25,None,7606
+MA0997,PPA100,D293,R009,High,Reimbursed,18,Step Therapy,6613
+MA0998,PPA100,D115,R001,Low,Partially Reimbursed,74,Step Therapy,9884
+MA0999,PPA101,D038,R010,Medium,Partially Reimbursed,38,Quantity Limit,9267
+MA1000,PPA101,D049,R010,High,Reimbursed,26,None,8174
+MA1001,PPA101,D286,R010,Medium,Not Reimbursed,38,None,8790
+MA1002,PPA101,D031,R006,Medium,Reimbursed,37,Prior Authorization,2195
+MA1003,PPA101,D027,R008,Medium,Not Reimbursed,47,Step Therapy,7146
+MA1004,PPA101,D171,R001,Medium,Not Reimbursed,46,Step Therapy,4421
+MA1005,PPA101,D121,R003,Low,Partially Reimbursed,60,Prior Authorization,8149
+MA1006,PPA101,D242,R007,High,Reimbursed,50,Step Therapy,971
+MA1007,PPA101,D182,R004,High,Reimbursed,24,None,7804
+MA1008,PPA102,D084,R010,High,Partially Reimbursed,27,None,9695
+MA1009,PPA102,D362,R006,High,Reimbursed,10,None,9451
+MA1010,PPA102,D240,R005,High,Reimbursed,14,None,8261
+MA1011,PPA102,D224,R002,Low,Reimbursed,71,None,2098
+MA1012,PPA102,D060,R008,Medium,Partially Reimbursed,36,Quantity Limit,2619
+MA1013,PPA102,D254,R002,High,Reimbursed,40,None,4512
+MA1014,PPA102,D021,R004,Low,Not Reimbursed,71,Quantity Limit,7523
+MA1015,PPA102,D227,R003,Medium,Not Reimbursed,66,None,897
+MA1016,PPA102,D183,R003,Low,Partially Reimbursed,53,Step Therapy,9064

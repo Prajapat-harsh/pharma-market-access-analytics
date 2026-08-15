@@ -1,0 +1,11 @@
+region_id,region_name,country,state_province,city,region_type
+R001,Northeast,USA,New York,New York City,State
+R002,West,USA,California,Los Angeles,State
+R003,South,USA,Texas,Houston,State
+R004,Midwest,USA,Illinois,Chicago,State
+R005,Southeast,USA,Florida,Miami,State
+R006,West,USA,Washington,Seattle,State
+R007,South,USA,Georgia,Atlanta,State
+R008,Northeast,USA,Massachusetts,Boston,State
+R009,Midwest,USA,Ohio,Columbus,State
+R010,West,USA,Colorado,Denver,State

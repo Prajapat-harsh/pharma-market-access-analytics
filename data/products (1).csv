@@ -1,0 +1,21 @@
+product_id,product_name,generic_name,brand_name,dosage_form,strength,therapeutic_area,manufacturer,launch_date
+P001,Product 1,Generic Drug 1,Brand 1,Capsule,50 mg,Oncology,Amgen,2025-05-01
+P002,Product 2,Generic Drug 2,Brand 2,Injection,100 mg,Immunology,Amgen,2025-02-01
+P003,Product 3,Generic Drug 3,Brand 3,Capsule,50 mg,Neurology,Amgen,2020-01-01
+P004,Product 4,Generic Drug 4,Brand 4,Injection,100 mg,Immunology,Amgen,2024-10-01
+P005,Product 5,Generic Drug 5,Brand 5,Injection,100 mg,Neurology,Amgen,2021-08-01
+P006,Product 6,Generic Drug 6,Brand 6,Capsule,150 mg,Oncology,Amgen,2021-12-01
+P007,Product 7,Generic Drug 7,Brand 7,Tablet,150 mg,Cardiology,Amgen,2021-04-01
+P008,Product 8,Generic Drug 8,Brand 8,Tablet,50 mg,Oncology,Amgen,2023-02-01
+P009,Product 9,Generic Drug 9,Brand 9,Tablet,150 mg,Cardiology,Amgen,2020-12-01
+P010,Product 10,Generic Drug 10,Brand 10,Tablet,50 mg,Neurology,Amgen,2020-09-01
+P011,Product 11,Generic Drug 11,Brand 11,Tablet,150 mg,Immunology,Amgen,2025-02-01
+P012,Product 12,Generic Drug 12,Brand 12,Injection,100 mg,Cardiology,Amgen,2020-04-01
+P013,Product 13,Generic Drug 13,Brand 13,Injection,200 mg,Cardiology,Amgen,2023-11-01
+P014,Product 14,Generic Drug 14,Brand 14,Tablet,100 mg,Cardiology,Amgen,2022-04-01
+P015,Product 15,Generic Drug 15,Brand 15,Capsule,150 mg,Oncology,Amgen,2024-11-01
+P016,Product 16,Generic Drug 16,Brand 16,Injection,100 mg,Immunology,Amgen,2023-07-01
+P017,Product 17,Generic Drug 17,Brand 17,Tablet,100 mg,Cardiology,Amgen,2020-04-01
+P018,Product 18,Generic Drug 18,Brand 18,Injection,150 mg,Neurology,Amgen,2022-02-01
+P019,Product 19,Generic Drug 19,Brand 19,Injection,150 mg,Immunology,Amgen,2025-08-01
+P020,Product 20,Generic Drug 20,Brand 20,Tablet,200 mg,Immunology,Amgen,2022-03-01
