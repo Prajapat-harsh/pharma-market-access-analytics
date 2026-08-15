@@ -104,32 +104,6 @@ Interactive slicers allow filtering by:
 
 ![Market Access Analysis](screenshots/market_access_analysis.png)
 
-### Market Access Analysis
-
-The dashboard includes analysis of:
-
-- Reimbursement rate by payer
-- Average patient copay by region
-- Average patient copay by access level
-- Restrictions by access level
-
-Interactive slicers allow users to filter the analysis by:
-
-- Region
-- Payer
-- Access level
-
-### Pharmaceutical Market Overview
-
-The overview dashboard provides high-level metrics including:
-
-- Total products
-- Total market access records
-- Total market volume
-- Total payers
-- Average patient copay
-
-It also includes market volume analysis by product.
 
 ## Key Business Questions
 
